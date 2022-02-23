@@ -1,0 +1,1056 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Weighty questions discussed I. Whether imposition of hands in separating a person to the work of the ministry be necessry?, II. Whether it be essential to the right constitution of a particular church, that the teaching elders and the members meet alwayes in one place? : whereunto is added a prediction of Mr. Daniel Rogers, minister in Essex, long before the beheading King Charles I and Arch-Bishop Laud, foretelling that they should not dye a natural death / by Giles Firmin ...</title>
+            <author>Firmin, Giles, 1614-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 130 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41335</idno>
+            <idno type="STC">Wing F969</idno>
+            <idno type="STC">ESTC R31512</idno>
+            <idno type="EEBO-CITATION">12033488</idno>
+            <idno type="OCLC">ocm 12033488</idno>
+            <idno type="VID">52812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41335)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1010:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Weighty questions discussed I. Whether imposition of hands in separating a person to the work of the ministry be necessry?, II. Whether it be essential to the right constitution of a particular church, that the teaching elders and the members meet alwayes in one place? : whereunto is added a prediction of Mr. Daniel Rogers, minister in Essex, long before the beheading King Charles I and Arch-Bishop Laud, foretelling that they should not dye a natural death / by Giles Firmin ...</title>
+                  <author>Firmin, Giles, 1614-1697.</author>
+                  <author>D. R. (Daniel Rogers), 1573-1652.</author>
+               </titleStmt>
+               <extent>[8], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Laud, William, 1573-1645.</term>
+               <term>Church of England --  Clergy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52812:1" rendition="simple:additions"/>
+            <p>
+               <hi>Weighty Queſtions</hi> DISCUSSED:
+<list>
+                  <item>I. <hi>Whether Impoſition of Hands in Separating a Perſon to the Work of the Miniſtry be</hi> Neceſſary?</item>
+                  <item>II. <hi>Whether it be</hi> Eſſential <hi>to the right Con<g ref="char:EOLhyphen"/>ſtitution of a particular Church, that the Teaching Elders and the Members meet alwayes in</hi> One Place?</item>
+               </list>
+            </p>
+            <p>Whereunto is added A Prediction of Mr. <hi>Daniel Rogers,</hi> Miniſter in <hi>Eſſex,</hi> long before the Beheading King <hi>Charles</hi> I. and Arch-Biſhop <hi>Laud,</hi> foretelling that they ſhould not dye a Natural Death.</p>
+            <p>By <hi>GILES FIRMIN,</hi> Author of the <hi>Real Chriſtian.</hi>
+            </p>
+            <q>What thing ſoever I Command you, obſerve to do it, thou ſhalt not add thereto, nor diminiſh from it,
+<bibl>
+                  <hi>Deut. 13.32.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author. 1692.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:52812:2"/>
+            <pb facs="tcp:52812:2"/>
+            <head>To the READER.</head>
+            <p>THat <hi>Unity</hi> among Chriſtian Brethren is a thing not only <hi>beautifull</hi> in it ſelf, but alſo a <hi>Duty</hi> greatly incumbent upon them who profeſs that bleſſed Name of Chriſt, none that read the Holy Scripture can be ig<g ref="char:EOLhyphen"/>norant of it; yea, a Duty ſo greatly incumbent, that they who do not all they can to promote it [provided the Authority of the Scriptures be preſerved] taking care that they neither profeſs nor practiſe any thing in the Houſe of God, but what is according to the Holy Scriptures, leſt that <g ref="char:V">Ʋ</g>nity ſhould be hindered, they neither ſhew that reſpect to the Command of Chriſt to us, nor to the Pray<g ref="char:EOLhyphen"/>er he made to his Father for this End, as become Chriſtians.</p>
+            <p>I thought I might have ſaid,
+<note place="margin">At that Holy Table, <hi>where we being many are one bread,</hi> 1 <hi>Cor.</hi> 10.17. I do admit In<g ref="char:EOLhyphen"/>dependents, Presbyterians &amp; Anabaptiſts, Members of the Church of <hi>England,</hi> that are, and walk as Chriſtians, tho' we differ in Opinion, and here <hi>Eccleſiaſtical <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on</hi> is chiefly ſeen.</note> that both in former times, and in theſe dayes, I had been as deſirous of this <g ref="char:V">Ʋ</g>nity as ſome other Men. Glad I was when I heard ſome Brethren of the Independant and Presbyte<g ref="char:EOLhyphen"/>rial Perſwaſion in <hi>London</hi> did attempt it; their Names were very dear unto me, when I heard who they were that laboured in it, tho' I knew none of them; more glad I was, when about four Years ſince a Copy of the Agreement was ſent me, to which my Brethren in the Countrey and my ſelf readily conſented: We expected the ſame ſhould have been Publiſhed, but we find another much different from it. In particular, in the former, <hi>Ordination</hi> was to be performed with <hi>Impoſition of Hands,</hi> but in this the Words are left out, and theſe words put in, The Perſon that is Cho<g ref="char:EOLhyphen"/>ſen, ſhall be <hi>Duely Ordained;</hi> not expreſſing what that <hi>Due Ordination</hi> is: However, as it is worded, I Conſent to this; and whatever be the different Sen<g ref="char:EOLhyphen"/>timents I have from others, in ſeveral things mentioned [and more than are mentioned] in the Agreement, yet I have willingly Subſcribed to it, and Pro<g ref="char:EOLhyphen"/>feſs my ſelf a <g ref="char:V">Ʋ</g>nited Brother with all that are <hi>Duely Ordained.</hi>
+            </p>
+            <p>In a ſmall Treatiſe which ſome few Years ſince I publiſhed, I took Notice of the Apoſtolical Churches how they were Conſtituted, I named <hi>Nine</hi> Churches, all that I could find, in which were <hi>ſeveral</hi> Elders: I find not one Church in the Goſpel where was but <hi>One Paſtor.</hi>
+            </p>
+            <p>Since that, Dr. <hi>Owen</hi> hath taken Notice of it, and hath proved by ſeveral Scriptures and Reaſons, that there ought to be <hi>many Elders</hi> in every particu<g ref="char:EOLhyphen"/>lar Church. [There were three Teaching Elders, beſides other Officers, in his Church, this was like a Goſpel Church.] To have but one Paſtor to govern, is a <hi>Novel Opinion,</hi> he ſaith; and what he adds is true, <hi>It is difficult, if not impoſſible, on ſuppoſition of one Elder only in a Church, to preſerve the Rule of the Church from being</hi> Prelatical <hi>or</hi> Popular.</p>
+            <p>As there ought to be many Elders in one Church, ſo I doubt not but the true Primitive Church-Government was by a <hi>Preſident</hi> with the <hi>Presbytery.</hi> Not
+<pb facs="tcp:52812:3"/>a <hi>Preſident</hi> over <hi>more</hi> Churches, but only <hi>one</hi> particular Church. Not a Preſident ſuperiour in Power over the Presbytery, but only <hi>Ordinis gratiâ,</hi> Revel. <hi>2.18.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.
+<note n="(a)" place="margin">The Preſident.</note> 24. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note n="(b)" place="margin">
+                  <p>The Preſident with the Presbytery.</p>
+                  <p>So <hi>Beza,</hi> and <hi>Raynol<g ref="char:EOLhyphen"/>dus Anglorum Eruditiſſi<g ref="char:EOLhyphen"/>mus,</hi> &amp;c. ſaith <hi>Didocla. Alta. Damaſ.</hi> p. 131.</p>
+               </note> the light of Nature directs to this. I would willingly have but one Inſtance given, where this Government was ever prejudicial to the Church. More I could ſay: I only mention this, that tho' in theſe Points I may differ from my Brethren, beſides what are mentioned in the <hi>Agreement,</hi> yet it hinders not my <g ref="char:V">Ʋ</g>nion with them.</p>
+            <p>What this <hi>Due Ordination</hi> is, our Brethren, as I ſaid, have not told us. Hence the Diſcuſſing of this <hi>Queſtion,</hi> falls not under that Prohibition, <hi>p. 3. that we muſt not</hi> Diſpute <hi>thoſe different Sentiments:</hi> For our Sentiments do all agree it muſt be <hi>Due Ordination;</hi> which if it be not declared what it is, we agree and Subſcribe to we know not what.</p>
+            <p>Before I Subſcribed, I asked the Brethren whether the Subſcribing to this Agreement did debar us from an amicable diſcuſſing the Queſtions wherein we differ? they All Anſwered, <hi>No.</hi> We were not hindered by it. We know the different Sentiments, before we Subſcribe the Agreement, and tho' we Diſpute them, yet our <g ref="char:V">Ʋ</g>nion holds as well as if we did not diſpute them.</p>
+            <p>The Apoſtle exhorts, <hi>1 Cor. 1.10</hi> and <hi>Phil. 2.2.</hi> that we be all <hi>of one Mind, of one Judgment.</hi> If we muſt not labour after it, to what purpoſe is the Exhortation? Is not the diſcuſſing Controverted Queſtions in a Chriſtian amicable way, ſeeking Light from God, and ſetting up his Ends, [not our own] one way to come to be of <hi>one mind,</hi> which the Apoſtle exhorts to? I am ſure it is, and could give good proof of it from experience, in the Queſti<g ref="char:EOLhyphen"/>on now diſputed. If we may not do this, then it is as much as to ſay, <hi>There are different Sentiments amongſt us, and</hi> ſhall <hi>be ſo;</hi> for ſtill, I ſay, the End of the Agreement, which is <hi>Union,</hi> is preſerved.</p>
+            <p>As to the Queſtion of <hi>Ruling Elders,</hi> which have continued in the Virgin Churches of the <hi>Vaudois</hi> from the Apoſtles dayes, and in the Churches of <hi>Bohemia,</hi>
+               <note place="margin">The Apoſtle mentioning only <hi>Biſhops</hi> and <hi>Deacons,</hi> 1 <hi>Tim.</hi> 3. troubles me.</note> where their Work is laid open with much more ſatisfaction to me, than in any Book I have yet ſeen in <hi>England.</hi> I ſhall be thankfull to any Brother who will diſpute the Queſtion <hi>Pro</hi> or <hi>Con,</hi> it ſhall not hinder <g ref="char:V">Ʋ</g>nion.</p>
+            <p>As to this Queſtion about <hi>Ordination,</hi> it is to my Knowledge a great hinde<g ref="char:EOLhyphen"/>rance of our <g ref="char:V">Ʋ</g>nion: The thing is ſo clear in ſeveral Texts of Scripture, how it ſhould be performed, and the Practice of the beſt, if not all the Churches ſince the Apoſtles times, have been accordingly with <hi>Impoſition of Hands,</hi> that I have wondered any Man ſhould ſcruple it.</p>
+            <p>I heard of an Ordination in our County of an <hi>illiterate</hi> Perſon, and that <hi>without Impoſition of Hands;</hi> after it was paſt, hearing of another [who
+<pb facs="tcp:52812:3"/>is a Scholar] to be Ordained by the ſame Perſons, I wrote to him, to deſire the Elders that were to Ordain him, to give me the Scriptures which did War<g ref="char:EOLhyphen"/>rant them to Ordain <hi>without</hi> Impoſition of Hands: One of them undertook it, a Perſon whoſe Gifts and Graces I honour. For <hi>Scriptures</hi> he gave me none: Whether his <hi>Reaſons</hi> be Cogent, the ſequel ſhall declare.</p>
+            <p>That <hi>Diminiſhing</hi> from the <hi>Word</hi> is as great a Sin as <hi>Addition</hi> to the Word, none can deny; the Text is expreſly againſt them both, <hi>Deut. 12.32.</hi> and <hi>ch. 4.2.</hi> both offer an <hi>Affront</hi> to the Wiſdom of the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw-giver: <hi>Addition</hi> charges him with <hi>Defect: Diminiſhing</hi> charges him with ſuperfluity, appointing things <hi>needleſs</hi> and <hi>vain.</hi>
+            </p>
+            <p>Grant it, that <hi>Impoſition of Hands</hi> in Ordination be but a <hi>Ceremony,</hi> yet it is <hi>God's</hi> Ceremony, appointed firſt by his expreſs Command,
+<note place="margin">Numb. 8.10, 14.</note> 
+               <hi>Not to conferr Gifts,</hi> as ſome would have it, but to <hi>Sepa<g ref="char:EOLhyphen"/>rate</hi> to Office. If you then could deny Communion with the Church of <hi>England,</hi> becauſe of their <hi>Addition of Humane Doctrinal Ceremonies</hi> to the Worſhip of God [I doubt not but this was one Cauſe among others,] may we not then queſtion our Communion with you, in your Adminiſtring of the Holy things, for throwing out <hi>God's</hi> Ceremony.</p>
+            <p>It is one thing to hold Communion with a Perſon as a <hi>Chriſtian</hi> [which I can do with all my Soul] another thing to hold Communion with the ſame Per<g ref="char:EOLhyphen"/>ſon as a <hi>Miniſter,</hi> diſpenſing the Holy things of God: For when, as in Sepa<g ref="char:EOLhyphen"/>ration to Office, <hi>God's</hi> Ceremony expreſſed in five or ſix Scriptures, is left out, have you not given us juſt Cauſe, ſetting by the Authority of God in thoſe Scrip<g ref="char:EOLhyphen"/>tures, to queſtion the lawfulneſs of your Miniſtry? O why do our Brethren lay ſuch Blocks in our way, to hinder that which the Lord hath ſo Commanded, and we ſo earneſtly deſire and ſeek after, <hi>Unity?</hi>
+            </p>
+            <p>I have ſpoken with ſome Ordained thus, and they told me they would have been Ordained with Impoſition of Hands, and expected it, but they who did it, refuſed it; the more trouble have they made in the Church.</p>
+            <p>They who come into the <hi>Goſpel-Miniſtry,</hi> muſt come in according to <hi>Goſpel-Order.</hi> God ſtands upon his <hi>Order, 1 Chron. 15.13. God made a Breach upon us, for that we ſought him not after</hi> Due <hi>Order.</hi> How ſevere was the Holy Law-giver then; but there was not <hi>Due Order,</hi> nor is here <hi>Due Or<g ref="char:EOLhyphen"/>dination:</hi> God is the ſame God ſtill, the God of Order as well as then. The Scriptures are plain in this Point; why are not we as plain? what need have we of other words them what we find in the Scriptures?</p>
+            <p>If Impoſition of Hands were but an <hi>indifferent</hi> thing, or but a circumſtance of the Action: I could Anſwer my ſelf: But it will appear to be that in which Se<g ref="char:EOLhyphen"/>paration to Office is <hi>principally</hi> made, and in which <hi>only</hi> it is <hi>ſeen.</hi>
+            </p>
+            <p>That godly and learned Men may err as well by <hi>Diminiſhing</hi> from the Word, as ſuch have done in <hi>Adding</hi> to the Word, I know nothing against it, they are but <hi>Men:</hi> But theſe Men who [as I judge] <hi>diminiſh</hi> from the Word, would not therefore <g ref="char:V">Ʋ</g>nite, and hold Communion with them in Worſhip, where theſe <hi>Ad<g ref="char:EOLhyphen"/>ditions</hi>
+               <pb facs="tcp:52812:4"/>were, becauſe they were godly and learned Men. We have our <hi>Rule</hi> to look to, not <hi>Men,</hi> further than they walk according to that Rule.</p>
+            <p>If the Reader meet with the Word <hi>Independent,</hi> I deſire him not to be offend<g ref="char:EOLhyphen"/>ed, for this Diſcourſe between my Brother and my ſelf, was before the Agreement of the <g ref="char:V">Ʋ</g>nited Brethren came forth; yet the word may be uſed <hi>ſano ſenſu</hi> well enough: For I doubt not a particular Church duely <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ganized, walking regular<g ref="char:EOLhyphen"/>ly, may Execute all the Power of the Keys within it ſelf, without dependency up<g ref="char:EOLhyphen"/>on any other Churches.</p>
+            <p>As to the End of my publiſhing this Treatiſe, my Conſcience bears me Witneſs before the Lord, I aim but at theſe two things.</p>
+            <p n="1">
+               <hi>1.</hi> To remove that Block, if I could, which hinders our hearty <hi>Union:</hi> I know it offends many of our Brethren; beſides, it gives advantage to them who obſerve our Practices to ſpeak againſt us, and that juſtly.</p>
+            <p n="2">2. To keep up the Authority of the Scriptures, which are ſo plain in this Caſe, that if we will own Ordination without Impoſition of Hands to be <hi>Due Ordinati<g ref="char:EOLhyphen"/>on,</hi> then the Authority of five or ſix Scriptures is ſet by.</p>
+            <p>I know no other ground of our Sufferings, but our maintaining of the Authority of the Scriptures, while <hi>Men</hi> would be Impoſing upon us ſuch things in the Houſe and Worſhip of God, which if the Queſtions were truly ſtated [which they never did] have no footing or ground in the Holy Scriptures, but were their <hi>Addition</hi> to them, as if the Wiſdom of God in the Scriptures were defective.</p>
+            <p>If we ſuffered <hi>then</hi> for the Authority of the Scriptures, while Men <hi>added</hi> to them, we will not give away their Authority <hi>now</hi> while men <hi>diminiſh</hi> from them. Where ſhall we End if this be the Practice?</p>
+            <p>As to the Second Queſtion, I ſeek Light.</p>
+            <p n="1">
+               <hi>1.</hi> To have but <hi>one</hi> Paſtor or Teaching Elder in a Church, agrees neither with the Holy Scripture nor ſound Reaſon. Good Mr. <hi>Faldo</hi> was troubled about it, I underſtand by his Letter to me.</p>
+            <p n="2">
+               <hi>2.</hi> The Poverty of the Churches generally is ſuch, that very few can main<g ref="char:EOLhyphen"/>tain <hi>One,</hi> then not more.</p>
+            <p n="3">
+               <hi>3.</hi> Complaints have been made by ſome Members of Churches, that their Pa<g ref="char:EOLhyphen"/>ſtors have not proceeded rightly againſt them, and they had no help.</p>
+            <p n="4">
+               <hi>4.</hi> If then the Holy Scriptures have not declared that the Officers and Members of a Church muſt meet alwayes in <hi>One Place,</hi> then all Church-work may be carried on, which as now we ſtand, cannot be. I begg of the Father of Lights to Guide <g ref="char:V">Ʋ</g>s.</p>
+            <closer>
+               <signed>
+                  <hi>The Unworthieſt of the United Brethren,</hi> GILES FIRMIN.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb facs="tcp:52812:4"/>
+            <head>
+               <hi>The Prediction of Mr.</hi> Daniel Rogers, <hi>Miniſter in</hi> Wethersfield <hi>in</hi> Eſſex, <hi>concerning King</hi> Charles <hi>the firſt, and Arch-Biſhop</hi> Laud.</head>
+            <p>IF you ask me who this Mr. <hi>Daniel Rogers</hi> was? he was the Son of Mr. <hi>Ri<g ref="char:EOLhyphen"/>chard Rogers,</hi> a Man eminent in Holineſs, whom God honoured to make him his Inſtrument in bringing home many Souls to Chriſt.</p>
+            <p>If you ask what he was for <hi>Grace</hi> himſelf? His Brother, Mr. <hi>Nathanael Ward,</hi> uſe to ſay of him, <hi>My Brother</hi> Rogers <hi>hath Grace enough for two men, but not half enough for himſelf.</hi> His Natural Conſtitution was no Advantage to Grace.</p>
+            <p>If you ask what he was for a <hi>Divine?</hi> his Works Anſwer for him.</p>
+            <p>If you ask what he was for a <hi>Scholar?</hi> two things declared him to be a Scho<g ref="char:EOLhyphen"/>lar; one was this: When Arch-Biſhop <hi>Land</hi> Viſited, Mr. <hi>Rogers</hi> was Summon<g ref="char:EOLhyphen"/>ed to appear, and did ſo; whether Mr. <hi>Rogers</hi> did grapple with the Arch-Bi<g ref="char:EOLhyphen"/>ſhop, I cannot tell, but one that lived in the Town where I now do, being then preſent at the Court, heard the Arch-Biſhop ſay to him, <hi>Mr.</hi> Rogers, <hi>I acknow<g ref="char:EOLhyphen"/>ledge you to be a better Scholar than my ſelf, but I will make you know your place:</hi> And ſilenced him.</p>
+            <p>A ſecond thing was this, which I had from a Kinſman of mine, who was of <hi>Clare-Hall</hi> at the ſame time, if not the ſame Year with Mr. <hi>Rogers;</hi> the Man was a very moderate Epiſcopal Man, he told me this.</p>
+            <p>The Arch-Biſhop ſends down a <hi>Coryphaus</hi> [this was the Word he uſed] to the Univerſity of <hi>Cambridge,</hi> to Challenge the <hi>Puritans,</hi> and gave his Queſtion accordingly: Great Expectation there was in the Univerſity; Mr. <hi>Rogers</hi> being Fellow of <hi>Chriſts-Colledge,</hi> came up Opponent; the firſt Argument he uſed was ſo ſtrong, and he followed it ſo cloſe, that he Crampt the Reſpondent, down fell the Ceremonial Champion; the Under-graduates obſerving it, went to Mr. <hi>Rogers,</hi> took him out of his Place, and carried him out of the Schools upon their Shoulders; when he was in the Schools yard, a Fellow of <hi>St. Johns</hi> comes behind him, and gives him a Clap on the Back as he was on their Shoulders, with theſe Words, <hi>Rogers, go home and Hang thy ſelf, thou wilt never dye with more Honour.</hi>
+            </p>
+            <p>This is the Man, with whom after he had Preached on his Lecture-day, I walked to his Houſe: As we were in the way, he asked me, where the King was? I told him: He looks upon me, and ſaid, <hi>If that King dyes the ordinary Death of Men, then God never ſpake by me.</hi> I was amazed to hear ſuch words come from ſo grave and eminent a Divine: O Sir! ſaid I to him, What do you mean to ſpeak ſuch Words concerning the King; I beſeech you give me your Reaſons why you ſpeak thus: He fixed his Eyes upon me, and gave me only this An<g ref="char:EOLhyphen"/>ſwer, <hi>Say you no more to me, but do you obſerve what I ſay to you.</hi>
+            </p>
+            <p>I was much troubled at theſe words. A few dayes after I met with two of his intimate Acquaintance, excellent Chriſtians, and told them I was much
+<pb facs="tcp:52812:5"/>troubled at what I heard Mr. <hi>Rogers</hi> ſpeak concerning the King; they asked me what he ſaid!
+<note place="margin">Note this.</note> I told them; they Anſwered me, That might very well be, for before the Wars began, while the Kingdom was in Peace, he told us, <hi>If this King</hi> Charles <hi>and this Prelate</hi> Laud <hi>dye the ordinary death of Men, then God never ſpake by me.</hi> [Biſhop <hi>Laud</hi>'s Head was off before I came into <hi>England.</hi>] I ask<g ref="char:EOLhyphen"/>ed them if he ſpake of any more? they ſaid, No, only thoſe two. I thought tho' he were a very heavenly Man, and one much with God in Prayer, yet I did not take him to be immediately inſpired by God, as the Prophets were, and ſo the Thoughts went off.</p>
+            <p>Afterwards, when the <hi>High Court of Juſtice</hi> [as they called it] ſate upon the King, I did not mind his words, for I did not think they had any intention to take away the King's Life: When I underſtood they were in earneſt, I went to Church on the Faſt-day, with a purpoſe to ſtir up the People to Pray for the King's Life; but before I came there, one overtakes me upon the Road, and told me the King was dead. It was the Faſt-day, on which Mr. <hi>Rogers</hi> alwayes Preached in the Forenoon: In the Afternoon [which he never did before but once, as I remember] he comes to our Church, I ſuppoſe to obſerve how I re<g ref="char:EOLhyphen"/>ſented the King's Death: After I had done, Mr. <hi>Rogers</hi> goes home with me, and diſcourſing about the King's Death, he recalled a Paſſage I had in my Pray<g ref="char:EOLhyphen"/>er concerning it, <hi>Thou ſaidſt true,</hi> ſaid he to me, and there this Old Prophet [I may call him ſo] leaning upon my Table, bemoaned the Death of King <hi>Charles,</hi> being much affected with it. Let others judge of this as they pleaſe, yet this I dare ſay, No Prophet immediately inſpir'd by God, did with more Confidence ſpeak concerning Thing or Perſon as he was inſpired, than Mr. <hi>Rogers</hi> did confi<g ref="char:EOLhyphen"/>dently foretell <hi>that King</hi> ſhould not dye the ordinary Death of Men.</p>
+            <p>That he ſhould have any hand in the King's Death, no rational Man that knew him would think ſo. 1. For he never came among Parliament or Ar<g ref="char:EOLhyphen"/>my Men, but an old Man, lived retired at home. 2. So many Years as I lived by him, I do not remember that ever I heard him ſpeak againſt the King. 3. The Words were ſpoken before the Wars began, to others, thô after they were begun, to me. 4. He bemoaned the King's Death. 5. Thô he was a ve<g ref="char:EOLhyphen"/>ry gracious Man, yet he was exerciſed too much with God's Hidings of himſelf from him, to have any Hand in ſuch Acts.</p>
+            <p>What Uſe to make of this, I leave to Wiſe Men.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:52812:5"/>
+            <head>A Weighty Queſtion DISCUSSED.</head>
+            <div type="question">
+               <head>Whether Impoſition of Hands in the Separation of a Per<g ref="char:EOLhyphen"/>ſon to the Work of the Miniſtry be neceſſary?</head>
+               <p>BEfore I come to the Queſtion, give me leave to premiſe a few things.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1ſt."/> 
+                  <hi>First,</hi> Tho' Gifts are Eſſential to a Miniſter [they muſt be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 <hi>Tim.</hi> 2.2. to whom <hi>Timothy muſt commit the things he had heard,</hi> &amp;c.] Yet <hi>Gifts</hi> do not make a <hi>Miniſter.</hi> I have known ſeve<g ref="char:EOLhyphen"/>ral Gentlemen [they were Scholars indeed] who as to <hi>Gifts</hi> were as fit for the Miniſtry as moſt Miniſters at this day in <hi>England;</hi> yet theſe wor<g ref="char:EOLhyphen"/>thy Men did not invade the Office of the Miniſtry, as many illiterate, infe<g ref="char:EOLhyphen"/>riour, and too many erroneous Mechanicks do now, to the diſgrace of that Function: Had they been grave experienced Chriſtians, as I have known ſome called forth, tryed and ordained by Learned Divines to Places ſuita<g ref="char:EOLhyphen"/>ble, I ſhould not have oppoſed, but encouraged and preferred before ma<g ref="char:EOLhyphen"/>ny who are called <hi>Schollars,</hi> but irreligious and ignorant in Soul-Works.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2dly."/> 
+                  <hi>Secondly,</hi> Perſons may be inſtrumental to the Converſion of others, and yet not fit for the Miniſtry. I have known ſuch. That Parents, even Mo<g ref="char:EOLhyphen"/>thers, by their godly Education of their Children, may be inſtrumental to the Converſion of their Children: Who will deny it? A notable inſtance I could give of a dying Mother, ſpeaking to a wicked rebellious Son, [ſhe had other Children godly] God bleſſed her Words, that he became a gracious Man.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3dly."/> 
+                  <hi>Thirdly,</hi> The <hi>Election</hi> of the People does not make a Miniſter. Dr. <hi>Owen</hi> hath ſpoken enough to this:<note place="margin">
+                     <hi>Lib.</hi> 2. <hi>p.</hi> 83. 85. 139.</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nto Officers of the Church are required,</hi> ſaith he, <hi>Election of the People,</hi> ſubmitting themſelves <hi>unto them in the Lord, and the ſolemn ſetting them apart, by Impoſition of Hands:</hi> And after that he writes, <hi>that Church Order</hi> is defective, <hi>that wants the Symbol of Authoritative Ordi<g ref="char:EOLhyphen"/>nation, viz.</hi> Impoſition of Hands.</p>
+               <pb n="2" facs="tcp:52812:6"/>
+               <p>And in his Expoſition of the <hi>Hebr.</hi> l. 3. p. 33. <hi>Impoſition of Hands is a Right of ſtanding uſe in the Church, and that wherein Church Order is much concerned.</hi>
+               </p>
+               <p>In his Second Book of the Church, mentioned before, p. 136. he proves there ought to be many Elders in one particular Church. This he proves, 1ſt. from Scripture; 2dly. by Reaſons: one of which he fetches from <hi>Im<g ref="char:EOLhyphen"/>poſition of Hands. Iſ,</hi> ſaith he, <hi>there be but one Elder only in a Church, upon his Death or Removal,</hi> this Impoſition of Hands, <hi>muſt either be left unto the People, or be ſupplyed by the Elders of other Churches, or be wholly omitted, all which are Irregular.</hi> He did acknowledge the Ordination he had without Impoſition of Hands, when he turned <hi>Independant,</hi> was <hi>defective.</hi>
+               </p>
+               <p>Whether Dr. <hi>Owen</hi> had his hand in drawing up the <hi>Savoy Confeſſion,</hi> I know not. But we ſee, upon mature thoughts, when he is leaving the World, he gives his Judgment according to the Holy Scriptures [which ſhould be the only Guide and Rule in the Houſe of God] contrary to that <hi>Confeſſion.</hi>
+               </p>
+               <p>Why <hi>Impoſition of Hands</hi> by Elders of other Churches ſhould be <hi>Irregu<g ref="char:EOLhyphen"/>lar?</hi> he names no Scripture to prove it. But if it be <hi>omitted,</hi> that Ordination, <hi>ſaith he,</hi> is <hi>irregular,</hi> (this we are ſure of from Scripture) that's enough for me. If it be <hi>irregular,</hi> then 'tis not <hi>Due Ordination;</hi> for the Rule hath not it's <hi>Due</hi> given to it. If ſuch Ordination can be <hi>valid,</hi> to what purpoſe is the Rule? We ſhall have ſtrange things follow if this be admitted, that in Religion, and in the Houſe of God, Acts may be valid which are not con<g ref="char:EOLhyphen"/>formable to the Word of God. The Word ſaith thus, but theſe Acts anſwer it not.</p>
+               <p>Pious and Learned Mr. <hi>Faldo</hi> before his Death, wrote me word, That one of the Brethren againſt <hi>Impoſition of Hands</hi> was with him, and deba<g ref="char:EOLhyphen"/>ted the Queſtion with him; and this eſpecially he ſtuck at, <hi>He would not al<g ref="char:EOLhyphen"/>low the Elders of one particular Church to perform Office-Acts, to thoſe that were not of that Church.</hi> Mr. <hi>Faldo</hi> tells me, <hi>He gave him a formal Argument, to prove that it might be, and in many caſes it</hi> muſt <hi>be admitted. This he deſired to write down, and did ſo, and I believe it will be ſeen by others in this Town of his Opinion: Aud if they will take occaſion to ventilate that Difference Brotherly, it will not be declined by ſome of your and my mind.</hi> Thus Mr. <hi>Faldo.</hi>
+               </p>
+               <p>What that Argument was Mr. <hi>Faldo</hi> did not write: I wrote to that Brother, deſiring him to let me know it, but I cannot obtain it; he ſearched for it, but could not find it.</p>
+               <p>But now, for <hi>Impoſition of Hands</hi> in ſeparating a Perſon to Office in the Houſe of God, this came in by an expreſs Command of God, <hi>Numb.</hi> 8.10, 14.</p>
+               <p>Who are meant by the <hi>Sons of Iſrael</hi> in the 10th. verſe, is the Queſti<g ref="char:EOLhyphen"/>on. Mr <hi>Pool</hi> ſaith, <hi>the Firſt-Born, or chief of the Tribes.</hi> The ſame Per<g ref="char:EOLhyphen"/>ſons I preſume, might be both, and moſt probable it was ſo.</p>
+               <p>
+                  <hi>Firſt, Chark<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ni</hi> [as Mr. <hi>Ainſworth</hi> Quotes him, and agrees with him in it] ſaith, <hi>They were the Firſt-Born.</hi> In this caſe he may be credited as ſoon as any Chriſtian Writer.</p>
+               <p>
+                  <hi>Secondly,</hi> We read in the three next verſes, 16, 17, 18 the Lord tells <hi>Moſes</hi> three times, that he <hi>had taken the Levites inſtead of the Firſt-born:</hi> Hence 'tis, moſt probable, <hi>the Firſt-born</hi> were they who impoſed Hands on the <hi>Levites.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly, By this Act,</hi> ſaith Mr. <hi>Pool, they ſignified their transſerring that Right of Miniſtring to God, from the Firſt-born, in whoſe hands it formerly
+<pb n="3" facs="tcp:52812:6"/>was.</hi> Very good: But who <hi>ſhould,</hi> or who <hi>could</hi> give away the <hi>Firſt-Borns</hi>-Right but themſelves? We read, <hi>Exod</hi> 24.5. Moſes <hi>ſent the Young Men of the Sons of</hi> Iſrael, <hi>and they offered burnt Offerings.</hi> Who were theſe Young Men? The <hi>Chaldee</hi> ſaith, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Primogeniti,</hi> the Firſt born. Theſe were the Prieſts or Sacrificers, until the Levites had the Prieſt<g ref="char:EOLhyphen"/>hood in their Tribe. So <hi>Numb.</hi> 3.12. 'Tis certain, the Firſt-born had many Priviledges [tho' <hi>Eſau</hi> deſpiſe his Eirth-right.] Then the Firſt-born muſt impoſe hands, and give away their Priviledges; but ſhall they who have no right give away another Man's Right?</p>
+               <p>
+                  <hi>Fourthly,</hi> The <hi>Firſt-born</hi> were ſeparated, <hi>Exod.</hi> 13.2. <hi>Sanctifie unto me e<g ref="char:EOLhyphen"/>very Firſt-born;</hi> in their Sanctification, there was a Separation. Now it is moſt probable, that they who were ſeparated did ſeparate the Levites, and not others. I inſiſt upon this for a Reaſon I ſhall give hereafter; let our Oppoſites give better Reaſons to prove they were not the <hi>Firſt born.</hi>
+               </p>
+               <p>As this Practice came into the Church by God's Command, ſo it con<g ref="char:EOLhyphen"/>tinued in the <hi>Jewiſh</hi> Church. Dr. <hi>Lightfoot</hi> tells us, that ſome Men who gave themſelves to the ſtudy of the Law, became very Learned Men which they might, the Law being in their own Tongue, and did <hi>teach,</hi> beſide the Prieſts and the Levites: but none without being firſt ordained, and that with <hi>impoſition of hands,</hi> Dr. <hi>Owen</hi> affirms the ſame; when the Goſpel-Church was to be erected, the Apoſtles, with whom Chriſt had <hi>ſpoken of things pertaining to the Kingdom of God, Acts</hi> 1.3. when a Deacon was to be ſet apart to his Office, they did it with <hi>Impoſition of hands, Acts</hi> 6.6. And ſo the Churches practiſed ever afterwards, <hi>Acts</hi> 13.3. 1 <hi>Tim.</hi> 4.14. 1 <hi>Tim.</hi> 5.22. <hi>Heb.</hi> 6.2. Of which Text more anon.</p>
+               <p>This was the Practice of the Churches next the Apoſtles, and ever ſince amongſt the Fathers. Papiſts, and Proteſtants, both <hi>Lutherans, Calviniſts, Epiſcopal, Preſbyterian, Independents;</hi> I never ſaw in my time,
+<note place="margin">
+                     <hi>Platfor. Ch. Diſe. Cap.</hi> 9. <hi>Theſ.</hi> 4.5.</note> while I was there, nor ever heard ſince I came from <hi>New England</hi> [tho I have en<g ref="char:EOLhyphen"/>quired] that any one was ordained to any Office in the Church without <hi>Impoſition of hands.</hi>
+               </p>
+               <p>Thus the <hi>Synod</hi> held there
+<note n="*" place="margin">
+                     <hi>And ap<g ref="char:EOLhyphen"/>proved by the Synod. held at</hi> Bo<g ref="char:EOLhyphen"/>ſton 1680.</note> 1649. tells us, upon theſe <hi>Hypotheſes,</hi> that the Fraternity is the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, of the Power of the Keys; and that Election gives the Eſſence. <hi>If there be no Elders, Impoſition of hands may be performed, by ſome of the Brethren, Numb.</hi> 8.10. But there is a Difference between the <hi>Firſt-born</hi> there, and our private Brethren; and good reaſon why they ſhould impoſe Hands, and not our private Men. It was not ſo in the Goſpel-Church: It is <hi>Irregular,</hi> ſaith Dr. <hi>Owen.</hi> But by this we ſee how <hi>Impoſition of Hands</hi> muſt be, and was in Practice.</p>
+               <p>In the next <hi>Theſis:</hi> The <hi>Fifth,</hi> they tell us, <hi>In ſuch Churches where there are no Elders, and the Church deſire it, we ſee not why Impoſition of hands may not be performed</hi> by the Elders of other Churches.
+<note place="margin">1 Tim. 4.14. Act. 13.3.</note> 
+                  <hi>Ordinary Officers laid hands upon Officers of many Churches.</hi> The <hi>Presbytery</hi> at <hi>Epheſus, laid hands upon</hi> Timothy <hi>an Evangeliſt.</hi> The <hi>Presbytery</hi> at <hi>Antioch, laid hands upon</hi> Paul <hi>and</hi> Barnabas. Theſe Men do not tell us this <hi>is their Judgment.</hi> but they give us the Holy Scriptures for what they ſay. Whereas, the <hi>Savoy Confeſſion</hi> gives us not one word of Scripture; but only tells us, where the Eſſence of a Paſtor lyes, <hi>without impoſition of hands,</hi> which is denyed. I muſt ſay with <hi>Tertullian, Non recipio, quod extra Scripturam de tuo inſers. Si Apoſtolicus, cum Apoſtolis ſenti.</hi>
+               </p>
+               <pb n="4" facs="tcp:52812:7"/>
+               <p>I find in the beginning of the Reformation of the Church of <hi>Scotland,</hi> when they came newly out of Popery, <hi>Impoſition of Hands</hi> was not judged <hi>neceſſary;</hi>
+                  <note place="margin">
+                     <hi>An.</hi> 1560. <hi>pag.</hi> 26.</note> as I read in the Hiſtory put out by Mr. <hi>Calderwood.</hi> That Man of God, Mr. <hi>Robert Bruce</hi> [whoſe Name I honour] was not ordained thus, nor any other way, that I can learn, as if there were ſomething in him extra<g ref="char:EOLhyphen"/>ordinary; though I honour the Man, yet we muſt ſtick to our <hi>Rule,</hi> and not Mr. <hi>Bruce.</hi>
+                  <note place="margin">
+                     <hi>An.</hi> 1581. <hi>pag.</hi> 105.</note> But afterwards, they tell us, how Ordination is to be performed, <hi>viz.</hi> by <hi>Faſting, Prayer,</hi> and <hi>Impoſition of the Hands of the Elderſhip.</hi>
+               </p>
+               <p>After this, <hi>pag.</hi> 383. they make it <hi>Indifferent.</hi>
+               </p>
+               <p>But at a general Aſſembly,
+<note place="margin">
+                     <hi>An.</hi> 1597. <hi>pag.</hi> 408.</note> it was ordered, That there be an Uniform Order touching Ordination of Miniſters throughout the whole Realm, and that with <hi>Impoſition of Hands;</hi> and thus it holds to this day.</p>
+               <p>Mr.
+<note place="margin">
+                     <hi>An.</hi> 1598. <hi>pag.</hi> 424.</note> 
+                  <hi>Bruce</hi> having preached many Years, would admit of <hi>Impoſition of bands</hi> for <hi>Confirmation,</hi> but not for <hi>Ordination.</hi> Several denyed him to be their lawful Paſtor for want of <hi>Impoſition;</hi> but others own'd him.</p>
+               <p>Mr. <hi>Bruce</hi> accepts of <hi>Impoſition</hi> for <hi>Confirmation;</hi> and <hi>Mr. Pont</hi> impoſes hands upon him.</p>
+               <p>
+                  <hi>Firſt,</hi> As for Impoſition of Hands for <hi>Confirmation,</hi> as it is uſed in <hi>England,</hi> after <hi>Baptiſm,</hi> I find not one word of it in all the Hiſtory, nor did the Church of <hi>Scotland</hi> own it, that I find there.</p>
+               <p>
+                  <hi>Secondly,</hi> All this while, there is not one Scripture brought by thoſe who oppoſed <hi>Impoſition:</hi> Yet they had taken the Word of God for their <hi>only</hi> Rule, which is ſo expreſs for <hi>Impoſition, &amp;c.</hi> which makes me wonder at Mr. <hi>Bruce,</hi> ſo holy a Man. But if they had no <hi>Scripture,</hi> had they no <hi>Rea<g ref="char:EOLhyphen"/>ſons?</hi> Yes, they had <hi>one,</hi> and but one, and that a pityful one too. Thus, <hi>It being laid as a ground,
+<note place="margin">
+                        <hi>pag.</hi> 425.</note> that none can receive Ordination to the Miniſtry, without Impoſition of Hands, and that the Ceremony is proper to Biſhops, it be<g ref="char:EOLhyphen"/>hoved to follow, that none could enter into the Miniſtry, without the Impoſition of the Hands of Biſhops.</hi> This is all very ſtrange that <hi>Mr. Bruce</hi> ſhould ad<g ref="char:EOLhyphen"/>mit of Impoſition of Hands for <hi>Confirmation,</hi> when the Biſhops do appro<g ref="char:EOLhyphen"/>priate that to themſelves as well as in <hi>Ordination.</hi>
+               </p>
+               <p>How many things may be ſaid to this, to ſhew the weakneſs of this ground? Any underſtanding man may eaſily ſee; but I forbear. <hi>The Repre<g ref="char:EOLhyphen"/>ſentation of Presbyterian Government,</hi> and put out the Year 1690. when <hi>Bi<g ref="char:EOLhyphen"/>ſhops</hi> are turn'd out, tell us in the ſixteenth Section, <hi>That Men come into the Miniſtry by Election and Ordination, by laying on of the Hands of the Bres<g ref="char:EOLhyphen"/>bytery, which is a mean of Communicating Authority to him.</hi> Then it ſeems the Church of <hi>Scotland,</hi> where this ſtir was, can <hi>impoſe Hands</hi> in Ordina<g ref="char:EOLhyphen"/>tion without Biſhops.</p>
+               <p>By reading this Hiſtory, I find the Government of the Church of <hi>Scotland,</hi> from the firſt beginning of Reformation, was <hi>Presbyterian;</hi> wherefore it was no ſmall injury to impoſe upon them Prelatical Biſhops, unleſs they had been of <hi>Chriſts Inſtitution,</hi> which we are ſure they are not. And <hi>that,</hi> our firſt Reformers in King <hi>Henry</hi> the Eights, and in King <hi>Edward</hi> the Sixth's, did declare, That <hi>Epiſcopacy</hi> was no diſtinct Order from <hi>Bresbytery</hi> by <hi>Di<g ref="char:EOLhyphen"/>vine Right,</hi> but only a prudent Conſtitution of the Civil Magiſtrate, for the better Government of the Church.</p>
+               <div n="2" type="section">
+                  <pb n="5" facs="tcp:52812:7"/>
+                  <head>SECT. II. <hi>The Definition of Ordination.</hi>
+                  </head>
+                  <p>AS to the word <hi>Ordination,</hi> I think <hi>Greg, de Valen.</hi> ſpeaks right;
+<note place="margin">
+                        <hi>Tom.</hi> 4. <hi>Diſ.</hi> 9. <hi>Q.</hi> 1. <hi>p.</hi> 1.</note> the word is taken from the Effect of that Ordinance, <hi>Quia per Ordinationem aliquis in gradu quodam atque Ordine certo Eccleſtaſticae Dignitatis Conſtituit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r.</hi> Some are Paſtors, ſome are Teachers, ſome a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Ruling Elders, ſome are Deacons, they are ſet or placed, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, 1 <hi>Cor.</hi> 1.28. in ſuch an <hi>Order</hi> in the Houſe of God, by <hi>Ordination.</hi> Thus it hath paſſed for Currant ma<g ref="char:EOLhyphen"/>ny hundred Years in the Church, till yeſterday, Election gave the <hi>Eſſence,</hi> and Ordination was but an <hi>Adjunct.</hi> I deſire my Brethren but to give me that <hi>Adjunct,</hi> according to the Word of God, and we ſhall unite, tho' we dif<g ref="char:EOLhyphen"/>fer in our Logical Notions.</p>
+                  <p>What ſhould he done where <hi>Ordination</hi> cannot be had? Something I had to ſay to it, but being none of our Queſtion, I let it alone. It is more ma<g ref="char:EOLhyphen"/>terial to know what Ordination is, and being it is Eſſential to our Diſcourſe, I will give the <hi>Definition</hi> of it. This being a ſure Truth, That they who do not give the <hi>Definition,</hi> they do but mock the Perſon to be ordained, and abuſe the Ordinance, for he is not ordained, <hi>Cui convenit Definitio eidem quoque Convenit Definitum: &amp; è Contra,</hi> &amp;c.</p>
+                  <p>Ordination then is, <hi>the Separation of a Perſon rightly qualified to the work of the Miniſtry, by teaching Elders, with Faſting, Prayer, and Impoſition of Hands.</hi>
+                  </p>
+                  <p>Something I had thought to have ſpoken about the <hi>Qualification</hi> [where<g ref="char:EOLhyphen"/>in I ſee theſe mens Practices with no content, their way being to debaſe the Miniſtry] but the ſtreſs lying moſt in the <hi>Ordiners</hi> and <hi>Impoſitions of Hands,</hi> I ſhall ſpeak to theſe two Heads.</p>
+                  <p>That it belongs to <hi>Teaching Elders, Act.</hi> 13.3. <hi>Tim.</hi> 1.4.14. I prove it.</p>
+                  <p>Here the People riſe up, and claim a Right; by Virtue of their being the <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, of the Power of the Keys: And I have ſeen it practiſed. Two Private Perſons impoſed their Hands upon an Ancient grave Divine, who was ordained, I believe, near 40 Years before in <hi>England,</hi> &amp;c. They gave him the <hi>Eſſence,</hi> in giving him a Call, and ſo they gave him the <hi>Ad<g ref="char:EOLhyphen"/>junct.</hi> And this being the Opinion of theſe men here, I preſer their Ordi<g ref="char:EOLhyphen"/>nation, with Impoſition of Hands, and would own him for a Goſpel Miniſter, before them whom you ordain [as you ſuppoſe] without Impoſition: And if Ordination be no more than <hi>Prayer and Faſting,</hi> what need of <hi>you</hi> [accord<g ref="char:EOLhyphen"/>ing to the Principles of <hi>Independency</hi>] in another Church. It is not <hi>Prayer, Preaching,</hi> and <hi>Faſting.</hi> Tho' I grant <hi>Preaching</hi> is very comely at ſuch an Or<g ref="char:EOLhyphen"/>dinance; yet <hi>Preaching</hi> is not Ingredient into the Ordination: The People can <hi>Faſt</hi> and <hi>Pray</hi> as well as you. I obſerved, while the hands of theſe pri<g ref="char:EOLhyphen"/>vate Perſons were upon the Head of their Paſtor, one of them made ſuch a Prayer as might become any <hi>Miniſter,</hi> it was ſo appoſite to the buſineſs in hand, that I could but wonder at it; and I believe it was his own Compo<g ref="char:EOLhyphen"/>ſing.</p>
+                  <pb n="6" facs="tcp:52812:8"/>
+                  <p>Whether the <hi>Fraternity</hi> be the firſt Subject of the Pow<g ref="char:EOLhyphen"/>er of the Keys;
+<note place="margin">
+                        <hi>Mr.</hi> Nath. Ward <hi>uſe to ſay, They were the firſt Subject of the</hi> Key-Clog, <hi>not the</hi> Keys: <hi>So they have proved in many Churches, I am ſure.</hi>
+                     </note> I have ſpoken to it ſeveral Years ſince in another Tract. I add but a few word now.</p>
+                  <p>In the Common Wealth, the People are before the Magiſtrate: In the Church, the Miniſtry is before the People. Thus it began with the Apoſtles, they were <hi>firſt,</hi> and after them by a continual Succeſſion of the Miniſtry the Church is continued. The <hi>Ministry</hi> is the Inſtrument in God's Hand, which he uſeth commonly or chiefly, for the bringing in, and building up of his Church, 2 <hi>Cor.</hi> 6.1. <hi>Epheſ.</hi> 4.11, 12. The principal Cauſe and the Inſtrument work together, to the producing of the Effect; that then the effect of a Power, ſhould be the <hi>firſt Subject</hi> of that Power of which 'tis an Effect, is new Logick to me.</p>
+                  <p>Dr. <hi>Owen</hi> ſaith, <hi>The Church is before Ordinary Miniſters.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw. Firſt,</hi> But is it before the <hi>Miniſtry?</hi> Elſe 'tis nothing.</p>
+                  <p>
+                     <hi>Secondly,</hi> The Propoſition is not true, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; that faithful and laborious Servant of Chriſt <hi>Mr. Eliot</hi> [whom I know and honour] <hi>Mr. Mahew. Mr. Leverick,</hi> with great Labour and Induſtry, get the <hi>Indian</hi> Language, and preach'd to the <hi>Indians;</hi> they were but ordinary Miniſters. God bleſſeth their Preaching: The <hi>Indians</hi> ſome of them are converted, gathered into a Church: Were they a Church before theſe <hi>Miniſters?</hi> And were they the firſt Subjects of the Power of the Keys, before theſe <hi>Miniſters</hi> preached to them?</p>
+                  <p>Let the Scriptures, in the Languages, that the Spirit of God inſpired his Pen-men to write them, be ſent to a People who never ſaw them, nor heard of them. Let this People underſtand them, believe them, embrace them, give themſelves up to them without any <hi>Miniſtry,</hi> to tranſlate, to interpret, and to help them to underſtand and believe; I will allow this People to be the <hi>Subjectum Primum, Secundum, Tertium,</hi> of all the Power of the Keys, but rot elſe.</p>
+                  <p>
+                     <hi>Secondly,</hi> There are others who lay claim to this, and impropriate it to themſelves, as belonging to them only, <hi>i. e. Biſhops,</hi> as being of a Superior Order above <hi>Teaching Elders:</hi> Thus Biſhop <hi>Gawden</hi> told me, <hi>it was out of Courteſie, that the Biſhop admitted Presbyters to impoſe Hands with them in Ordina<g ref="char:EOLhyphen"/>tion.</hi> Thanks to this Courteous Biſhop. I thought they had followed the fourth <hi>Council of Cartbage:</hi> But if <hi>Presbyters</hi> do impoſe Hands with the Bi<g ref="char:EOLhyphen"/>ſhop, then the Superiority of the Biſhop above the <hi>Presbyter,</hi> in Ordination, is gone: For <hi>Impoſition of Hands</hi> is the Principal thing in Ordination, as I will prove anon, becauſe <hi>one</hi> prays at the Impoſition; that argues no Su<g ref="char:EOLhyphen"/>periority of Power in him.</p>
+                  <p>All <hi>Biſhops</hi> were not of this <hi>Biſhop Gawden</hi>'s mind; not that <hi>Biſhop</hi> of <hi>Peter<g ref="char:EOLhyphen"/>borough,</hi> who when he ordained many at one time, but then take notice, <hi>That he did ordain them as Preſbyter.</hi> He ſpoke not without Reaſon; for no Miniſterial Acts in the Church are valid, but ſuch Acts as are per<g ref="char:EOLhyphen"/>formed by Miniſters of <hi>Chriſt's, Inſtitution.</hi> They who are Officers in the Church by Civil or Eccleſiaſtical Conſtitution, all their Acts <hi>as ſuch,</hi> ſig<g ref="char:EOLhyphen"/>nifie nothing. But his being a Biſhop, and ſo ſuperior to a Presbyter, was by no Inſtitution of Chriſt, had only <hi>jus Humanum</hi> to Warrant his Autho<g ref="char:EOLhyphen"/>rity, and therefore he did not ordain as <hi>ſuch a</hi> Biſhop, but as Presbyter. Two I know, Mr. <hi>Statham,</hi> (as I heard) and Mr. <hi>Samuel Smith,</hi> who were then Ordained: Mr. <hi>Smith</hi> ſpake of it often, what the Biſhop ſaid to them, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>d them take notice of it: Had Mr. <hi>Smith</hi> lived till now, he had
+<pb n="7" facs="tcp:52812:8"/>been about 78 years of Age; ſuppoſe him to be Ordained about 25 years of Age, ſome by this may gueſs what the Name of that Biſhop was about 58 years paſt. I have often thought of this; the meaneſt Officers in the Common-Wealth, be they <hi>Rum-bailiffs, Ale-Founders,</hi> yet they muſt have <hi>Law</hi> for their Office to Warrant their Actings: But that in the Houſe of God there ſhould be ſuch as look upon themſelves as the Chiefeſt Offi<g ref="char:EOLhyphen"/>cers in the Church, and yet can ſhew no Law from the Lord of the Houſe to Warrant their Office; this is ſtrange, what hath <hi>jus Humanum</hi> to do in the Houſe of God? Is not the Wiſdom of the Great God Sufficient to know what Officers to appoint in his Houſe, but ſinful Man muſt ſet up Officers, and ſupream Officers too, without him? Thus <hi>Biſhop Gawden</hi> told me; <hi>The Biſhop is the Supream Officer,</hi> [He ſhould have ſaid the <hi>Arch-Biſhop] in the Church; you Presbyters are but the</hi> Pipe-ſtaves, <hi>the Biſhop is the</hi> Hoop <hi>that holds you together.</hi> An excellent ſimilitude; I deſired him to tell me who ſhould be the <hi>Cooper</hi> to knock on this <hi>Hoop,</hi> I doubt (I told him) the <hi>Pope</hi> would ſwear by his Keys, that he muſt and will be the Coop<g ref="char:EOLhyphen"/>er. And <hi>Bellarmin</hi> will maintain it by his Argument <hi>a Simili,</hi> &amp;c. <hi>De Ro<g ref="char:EOLhyphen"/>mano Pontif. mibi.</hi> 204. He told me moreover, <hi>you Presbyters are no more able to manage the Government of the Church of</hi> England, <hi>than</hi> David <hi>was able to wield'</hi> Saul's <hi>Armour.</hi>
+                  </p>
+                  <p>The Government of the Church of <hi>England</hi> is a hard word, there needs an Interpreter. We poor Presbyters look only to the Government of our particular Flocks, whom we feed with the Word and Sacraments, over whom God hath made us Biſhops, <hi>Acts</hi> 20.17, 28. If all the particular Congregations in <hi>England</hi> (ſuppoſing them to be viſible Saints) were ſo go<g ref="char:EOLhyphen"/>vern'd, then by an Induction of particulars, it might be ſo call'd.</p>
+                  <p>We do not indeed in our Government uſe Writs <hi>de Excommunicato Ca<g ref="char:EOLhyphen"/>piendo, Priſons, Fines, Cutting off Ears,</hi> theſe are <hi>Saul</hi>'s <hi>Armour,</hi> but none of <hi>Paul</hi>'s <hi>ſpiritual Weapons,</hi> 2 <hi>Cor.</hi> 10.4. with which we are content. If it be well examined, it will be found that the Zeal of his Government hath been carried out againſt Conſciencious Men, who for <hi>Doctrin, Wor<g ref="char:EOLhyphen"/>ſhip, Diſcipline,</hi> ſtick cloſe to the Word of God, without admitting any Hu<g ref="char:EOLhyphen"/>mane Inventions to juſtle with him; I ſay the Zeal has been carried out againſt thoſe far more than againſt Whore-mongers, Drunkards, pro<g ref="char:EOLhyphen"/>phane Swearers, Dam'mees, <hi>&amp;c.</hi>
+                  </p>
+                  <p>I can but take notice of Dr. <hi>Lightfoot,</hi>
+                     <note place="margin">1 <hi>Vol. p.</hi> 787, 788.</note> that learned Man and Son of the Church of <hi>England,</hi> living in the times of our Perſecution, who de<g ref="char:EOLhyphen"/>nys <hi>Biſhops to be Succeſſors to the Apoſtles. And that it is an improbable and unconſtant Inference, that becauſe there was Subordination between the Apoſtles and Philip.</hi> (in Acts 8.) <hi>that therefore the like is to be reputed betwixt Biſhops and other Miniſters.</hi>
+                  </p>
+                  <p>I have done with this; I only aimed at this; <hi>Teaching Elders may Ordain,</hi> and we have Divine Authority for it in the Texts before mentioned: Theſe we are ſure are Officers in the Church by Chriſts Inſtitution; The <hi>Lu<g ref="char:EOLhyphen"/>therans</hi> have Biſhops, yet they deny any inequality <hi>jure Divino,</hi> between Biſhops and Presbyters, <hi>quoad Poteſtatem Juriſdictionis.</hi> Therefore <hi>Gerrard</hi> anſwering <hi>Bellarmin</hi> appropriating <hi>Ordination</hi> to Biſhops ſaith,
+<note place="margin">
+                        <hi>De Miniſt. Eccleſ. p.</hi> 261.</note> 
+                     <hi>there is not one tittle in all God's Book, that Ordination by Biſhops ſhould be valid,</hi> but <hi>by Presbyters ſhould be Null.</hi>
+                  </p>
+                  <p>The next thing is, it muſt be performed with <hi>Impoſition of Hands:</hi> I named five Scriptures for this before.</p>
+                  <pb n="8" facs="tcp:52812:9"/>
+                  <p>What Dr. <hi>Owen</hi> ſaith, <hi>Ordination of Miniſters is one thing, Impoſition of hands is another, differing as the whole and the part.</hi> I yield it by this <hi>whole,</hi> he muſt mean <hi>totum integrale,</hi> it cannot be <hi>totum univerſale,</hi> but we ſay in Lo<g ref="char:EOLhyphen"/>gick, <hi>ſuolata qualibet parte tollitur perfectio Integri, ſed ſublata parte principali tollitur integrum.</hi> Then I ſay where there is not <hi>Impoſition of hands,</hi> there is no Ordination, for this <hi>Impoſition</hi> is the <hi>principal</hi> part, and ſo <hi>tollitur Inte<g ref="char:EOLhyphen"/>grum.</hi>
+                  </p>
+                  <p>That it is the <hi>principal</hi> part I prove, and this ſhall be my firſt Argu<g ref="char:EOLhyphen"/>ment.</p>
+                  <p n="1">1ſt. The Spirit in the Apoſtles, ſets forth the whole Ordinance of Ordi<g ref="char:EOLhyphen"/>nation, only by <hi>Impoſition of Hands,</hi> but never by Faſting and Prayer, 1 <hi>Tim.</hi> 4.14. <hi>the laying on of the Hands of the Presbytery,</hi> 1 <hi>Tim.</hi> 5.22. <hi>Lay Hands on no Man ſuddenly.</hi> That in thoſe Texts <hi>Ordination</hi> is meant, and not <hi>Confir<g ref="char:EOLhyphen"/>mation,</hi> nor reception of <hi>Penitents,</hi> nor the <hi>Sick.</hi> I have proved in ano<g ref="char:EOLhyphen"/>ther Tract, ſo that I inſiſt not upon them. <hi>Heb.</hi> 6.2. This my Brother with whom I now deal, denyes to be <hi>Ordination,</hi> but it is meant of <hi>Confirmation,</hi> and bids me ſee Dr. <hi>Owen</hi> ſo interpreting it.</p>
+                  <p>I honour the Doctor, and will conſider him when I have firſt proved it is meant of <hi>Ordination.</hi> If Mens Judgments be worth any thing then for learn<g ref="char:EOLhyphen"/>ing and Holineſs, we have very eminent Men for it. Arch-Biſhop <hi>
+                        <g ref="char:V">Ʋ</g>ſher,</hi> Mr. <hi>Cart-wright,</hi> Dr. <hi>Lightfoot,</hi> Mr. <hi>Thomas Hooker, Gualter, Toſſanus, Bullin<g ref="char:EOLhyphen"/>ger, Gilleſpy Dicſon, Johnſon, Jacob,</hi> Theſe underſtand it only of <hi>Ordination.</hi> Other Divines of <hi>Confirmation</hi> and <hi>Ordinati<g ref="char:EOLhyphen"/>on,</hi> and
+<note n="*" place="margin">
+                        <hi>Becauſe my Brother Charges me with my falſe Quotation of Mr.</hi> Cart-wright, <hi>take his words on</hi> Heb. 6.2. <hi>By Im<g ref="char:EOLhyphen"/>poſition of Hands</hi> the Apoſtle meaneth no Sacrament, much leſs <hi>Confirmation</hi> after Baptiſm, but by a Trope or bor<g ref="char:EOLhyphen"/>rowed Speech, the <hi>Miniſtry of the Church</hi> upon the which <hi>Bands were laid,</hi> which appeareth in that whoſoever believeth not, there ought to be a Miniſtery by or<g ref="char:EOLhyphen"/>der to Teach and Govern the Church, overthroweth Chriſtianity.</note> Dr. <hi>Owen</hi> here doth not exclude it.</p>
+                  <p n="1">1ſt. I lay the Foundation for my Proof, in theſe Words, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. 1.5. <hi>not laying again the Foundation.</hi> This then is a Fundamental point. Foundati<g ref="char:EOLhyphen"/>on muſt laſt as long as the Houſe laſts. <hi>Con<g ref="char:EOLhyphen"/>firmation</hi> by extraordinary Gifts conveyed in the Impoſition of Hands, do not laſt ſo long as the Church laſts: the Church hath loſt this above Fifteen hundred Years: But the <hi>Miniſtry</hi> intended in this place, ſhall laſt to the end of the World, <hi>Mat.</hi> 28.20. till the Body of Chriſt be perfected, <hi>Eph.</hi> 4.12, 13. Therefore this is the Foundation.</p>
+                  <p>The other Heads of Catechiſm that are join'd with it, muſt laſt to the end of the World. And if <hi>Baptiſm,</hi> then the <hi>Miniſtry,</hi> that have the Command from Chriſt, to <hi>Teach</hi> and <hi>Baptiſe, Mat.</hi> 28.20.</p>
+                  <p n="2">2dly. Let it be obſerved, that the extraordinary Gifts which were given ſometimes, by <hi>Impoſition of Hands;</hi> were given <hi>firſt</hi> to the Jewiſh Chriſtian-Church, and then to the Gentiles, <hi>without</hi> Impoſition of Hands, <hi>Acts</hi> 2.2, 3. with <hi>Acts</hi> 10.44, 45, 46. This is very material. Do you then ſhew us two Texts where the Apoſtles ſeparated Men to the <hi>Miniſtry</hi> without <hi>impoſition of Hands;</hi> as extraordinary Gifts were given firſt, both to Jews and Gentiles, without Impoſition of Hands; and to <hi>Cornelius</hi> and his good Company before <hi>Baptiſm.</hi> Acts 10.47.</p>
+                  <p n="3">3dly, We have other Scriptures, where <hi>Impoſition,</hi> &amp;c. is put for Ordina<g ref="char:EOLhyphen"/>tion; I named <hi>two.</hi> Do you name <hi>one</hi> more where <hi>Impoſition of Hands,</hi> men<g ref="char:EOLhyphen"/>tioned alone, is put for <hi>Confirmation.</hi>
+                  </p>
+                  <pb n="9" facs="tcp:52812:9"/>
+                  <p n="4">4thly. Impoſition of Hands in Ordination to Office, was before <hi>Impoſi<g ref="char:EOLhyphen"/>tion</hi> of <hi>Hands</hi> to the Collation of extraordinary gifts, and more frequently men<g ref="char:EOLhyphen"/>tioned; therefore the more reaſon why it ſhould be ſo underſtood here, and not excluded.</p>
+                  <p>The placing of <hi>Impoſition, &amp;c.</hi> in the Text-after <hi>Baptiſm,</hi> does not prove it to be meant of <hi>Confirmatton,</hi> no more than the placing of <hi>Faith in God,</hi> af<g ref="char:EOLhyphen"/>ter Repentance will prove that Repentance goeth before <hi>Faith in God;</hi> where<g ref="char:EOLhyphen"/>as if a Man do not firſt believe God to be, and ſuch a God as the Word declares him to be; yea, if he do not believe the Reſurrection and the laſt Judgment, he will hardly <hi>Repent.</hi>
+                  </p>
+                  <p n="2">2dly. <hi>Cornelius</hi> and his Friends, the Gentiles, had thoſe Gifts Conferred <hi>before Baptiſm, Acts</hi> 10.45, 46, 47, 48.</p>
+                  <p n="3">3dly. Let them prove that all that were Baptized had theſe Gifts Con<g ref="char:EOLhyphen"/>ferred after Baptiſm. This made Dr. <hi>O.</hi> ſo to expound it, becauſe it fol<g ref="char:EOLhyphen"/>lows Baptiſm in the Text.</p>
+                  <p>As for Dr. <hi>Owen</hi>'s Reaſons againſt Ordination <hi>I ſee no reaſon,</hi> ſaith he, <hi>why the Apoſtle ſhould paſs from the Doctrin of the firſt entrance of Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and proceed to the Ordination of Miniſters, omitting the Lords Supper.</hi>
+                  </p>
+                  <p n="2">2dly. <hi>Nor why he ſhould inſert the obſervation of this Rite, or the Doctrine concerning it, in the ſame Order, and under the ſame neceſſity with the other great Fundamentals,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> 1ſt. And what <hi>neceſſity</hi> was there of his inſerting extraordinary Gifts, common to godly and ungodly, and which were to expire in a ſhort time amongſt the Fundamentals.</p>
+                  <p n="2">2dly. Goſpel Worſhip is a fundamental point, and it was Chriſts plea<g ref="char:EOLhyphen"/>ſure to have a Goſpel Miniſtry to carry on that Worſhip to the Worlds End; and under that <hi>Rite,</hi> the Miniſtry is meant, <hi>Epheſ.</hi> 4.11.12, 1 <hi>Cor.</hi> 12.28.</p>
+                  <p n="3">3dly. Under Baptiſm, the Lord's Supper might be comprehended, being the other Sacrament
+<note n="*" place="margin">
+                        <hi>So Dr.</hi> Gouge<hi>'s Baptiſm</hi> Synechdo<g ref="char:EOLhyphen"/>chice <hi>is put forboath Sacra<g ref="char:EOLhyphen"/>ments.</hi>
+                     </note> or being thoſe were the Catechetical Heads, which the <hi>Novices</hi> learned before they were Baptized and admitted into the Church (as Baptiſm and Repentance went together in <hi>John</hi>'s Baptiſm, <hi>Matthew</hi> 3.) ſo here Baptiſm and Repentance are mentioned, but for the Lords Supper, they might be further inſtructed after they were in the Church, before they were admitted to it.</p>
+                  <p n="4">4thly. There is not ſuch a neceſſity of Baptiſm, as of Faith and Repen<g ref="char:EOLhyphen"/>tance; yet Baptiſm is mentioned amongſt thoſe Heads.</p>
+                  <p>
+                     <hi>The Prophets under the Old Teſtament Propheſied of theſe Gifts, that they ſhould be poured out</hi> ſaith the Dr.</p>
+                  <p>
+                     <hi>Anſw.</hi> True, but the Prophets do not ſay, they ſhould be conferred by <hi>Impoſition of Hands,</hi> and ſo be made a Chatachetical Head under the New Teſtament.</p>
+                  <p n="2">2dly. So do ſeveral of the Prophets foretell, what <hi>Paſtors</hi> the Lord will give to his Church under the time of the <hi>Meſſah.</hi> But to make an end with Dr. <hi>Owen</hi> to whom you refer me; He gives us four Caſes in which this Impoſition of Hands was uſed. The <hi>Second</hi> he mentions was <hi>in healing of Diſeaſes, Mark</hi> 16.18. <hi>&amp;c.</hi> This cannot be the meaning here, ſaith he, <hi>for this gift was extraordinary, occaſional, Temporary, Proper to ſome.</hi>
+                  </p>
+                  <p>Upon the ſame grounds, it cannot be meant of <hi>Confirmation.</hi> For the Gift was <hi>Extraordinary, Temporary, Proper</hi> to the Apoſtles; <hi>Ananias</hi> had an
+<pb n="10" facs="tcp:52812:10"/>immediate Call to it, <hi>Acts</hi> 9.10, 11.17. <hi>Philip</hi> had no ſuch power, or Gift in <hi>Acts</hi> 8. And after the Apoſtles we read of none that could, or did confer Gifts extraordinary by <hi>Impoſition of Hands.</hi> What he means by <hi>occaſional,</hi> I know not. I know no word of Healing unleſs People were ſick.</p>
+                  <p n="2">2dly. But I read in the Dr. <hi>p.</hi> 34. thus, <hi>we ſhall allow room alſo for that o<g ref="char:EOLhyphen"/>ther expoſition of the Words which is more generally received,</hi> (I ſuppoſe he means <hi>Ordination) becauſe it complies with the Analogy of Faith: I dare not be peremptory.</hi> Then the Dr. is not abſolutely againſt me.</p>
+                  <p>So much for my firſt Argument.</p>
+                  <p>I go on,</p>
+                  <p n="2">2dly. <hi>Ordination is an Act of Authority, but Prayer and Faſting are no Acts of Authority.</hi> Theſe are the Duties belonging to all Chriſtians. I would deſire no more Bleſſings than many good Women can pray for. <hi>Therefore</hi> Prayer and Faſting do not make Ordination.</p>
+                  <p>The <hi>Major</hi> only remains to be proved, <hi>Acts</hi> 6.3, 6. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>whom we may appoint,</hi> &amp;c. Tho' the Perſons were qualifyed, tho' elected by the Church, yet they were not in that <hi>Order</hi> of <hi>Deacons,</hi> till the Apoſtles put them into it Authoritatively, <hi>Impoſing their Hands</hi> upon, them. And this is common with all Presbyters, <hi>Tit.</hi> 1.5. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. The ſame word we had before. This word I find ſeveral times in the New Teſtament, belonging to a Perſon in Authority, giving Authority to others, as <hi>Acts</hi> 7.10. and 27, and 35. <hi>Matth.</hi> 24.45.47. <hi>Matth.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5.21.25, <hi>&amp;c.</hi>
+                  </p>
+                  <p>What Mr. <hi>Ainſworth</hi> ſaith of the <hi>Firſt born</hi> impoſing their hands upon the Levites, I think 'tis true: <hi>By this ſign, they did put the charge and Service of the Church upon them, and did Conſecrate them to God in their Name.</hi> So I think the Presbytery in their Impoſing of hands do impoſe the charge, the burden, the work of the Miniſtry upon the Perſons ordained, giving them Authority from the Lord, to go forth and Preach, and Adminiſter all the Holy things of God with Authority. As the Church of <hi>Scotland</hi> ſaith, <hi>It is a mean of Communicating Authority to the perſon Ordained.</hi> Well may the Apoſtle ſay, <hi>lay hands upon no Man ſuddenly.</hi> See it in a civil Caſe, <hi>Numb.</hi> 27.18, 19, 20. <hi>Joſhua</hi> muſt ſtand before the High-Prieſt and the whole Congregation: <hi>Moſes</hi> muſt lay his hand upon him, a ſign of his calling, and Ordination to his Office. <hi>v.</hi> 23. Moſes <hi>did ſo, and gave him his Charge.</hi>
+                  </p>
+                  <p>Thus if ſtrangers hearing there is an Ordination come in among you, there they may hear Preaching and Prayer; but who is the perſon to be or<g ref="char:EOLhyphen"/>dained, they cannot tell by Preaching and Prayer, but when a perſon is brought forth, and the Presbytery Impoſe their Hands upon him and pray, now they may know who the Perſon is.</p>
+                  <p n="3">3dly. If Prayer and Faſting be Ordination without Impoſition of hands, then as oft as Miniſters meet together, to keep days of Faſting and Pray<g ref="char:EOLhyphen"/>er, and pray for him who is the Paſtor of that Church where they meet, for increaſe of grace, gifts, bleſſing upon and ſucceſs in his Work, ſo oft the Man is ordained; are not theſe the Heads you pray for, when you Ordain in your way? What Heads have you more? Not only in the Sacra<g ref="char:EOLhyphen"/>ments; but in all Church-Ordinances, there is ſomething which viſibly ſhews a difference between that Ordinance and another. As the Eyes and Hands lifted up to Heaven in Prayer, viſibly ſhew a difference between Prayer and Preaching, and ſo in Preaching from Prayer; but according to you there is nothing whereby Ordination differs from other Ordinan<g ref="char:EOLhyphen"/>ces.</p>
+                  <pb n="11" facs="tcp:52812:10"/>
+                  <p>
+                     <hi>Fourthly, Acts</hi> 13.3. That here in <hi>Ordination,</hi> I meet with ſeventeen Di<g ref="char:EOLhyphen"/>vines beſides Dr. <hi>Owen,</hi> that acknowledge it, and the Definition of Ordina<g ref="char:EOLhyphen"/>tion is here ſeen. When God commanded them to ſeparate, <hi>Paul</hi> and <hi>Barnabas, &amp;c.</hi> He did not tell them how they ſhould ſeparate, they knew that before, and accordingly did it with <hi>Impoſition of Hands;</hi> they had learnt that from <hi>Numb.</hi> 8.10.14. the poſitive Command, where the word ſeparate is uſed.</p>
+                  <p>If ever <hi>Ordination</hi> might have been ſpared, then here; for what did this ſignifie to the poor ignorant Gentiles to whom they were ſent, that knew nothing of it? And if they had told them they were thus Ordained, what cared they for it? They carried their Credentials with them, the power of <hi>Miracles,</hi> to confirm their Doctrine. If the Church did Pray and Faſt for ſucceſs upon their Miniſtry, but what need <hi>Impoſition of Hands?</hi> Not to confer Gifts, they were qualifyed before, <hi>Paul, Acts</hi> 9.17. <hi>Barnabas, Acts</hi> 11.24. and for <hi>Teachers</hi> to Confer <hi>Gifts</hi> extraordinary, we read none. They were called to ſeparate, by an <hi>immediate Command</hi> or Call of God. So <hi>Paul</hi> was no <hi>Apoſtle of Men, Gal.</hi> 1.1. Tho' Men did Ordain, yet what they did, being by the immediate Call and Command of God, he may be ſaid to be an Apoſtle not of Men, or by Men.</p>
+                  <p>But this is obſervable: This Ordination is the <hi>firſt</hi> that ever was out of <hi>Judea. Antioch</hi> then the chief City of <hi>Syria,</hi> the moſt powerful City of <hi>Aſia,</hi> where the Prefect of the <hi>Eaſt</hi> moſt where reſided, called by ſome the <hi>Gentiles Jeruſalem.</hi> Here then in a City of the <hi>Gentiles,</hi> is the Apoſtle of the <hi>Gentiles,</hi> ſet apart to the Work of an Apoſtle among the <hi>Gentiles.</hi> And I cannot tell what uſe to make of it, ſince as I ſaid, the <hi>Gentiles</hi> neither knew it, nor regarded it, but it is of uſe to us, to ſhew us that as the Apoſtle of the <hi>Gentiles</hi> was ſeparated to his Work, ſo all Miniſters that are the Succeſſors of the Apoſtles, ſhould be ſeparated to their Work; that as they were thus ſeparated in the Jewiſh Church, ſo it ſhould be in the Gentile-Chriſtian Church.</p>
+                  <p>
+                     <hi>Object. But Paul was an Apoſtle before.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. I deny its For, 1ſt. Then the Text would have called him ſo. The Text tells us there were <hi>Prophets and Teachers,</hi> but he doth not ſay there were Apoſtles. Surely <hi>Paul</hi> ſhould have had the Title of his Office, if he had been an <hi>Apoſtle,</hi> as well as the <hi>Prophets</hi> had.</p>
+                  <p n="2">2dly. The Lord tells <hi>Anantas, Acts</hi> 9.15. <hi>Paul</hi> was a choſen Veſſel, <hi>to carry his name among the Gentiles.</hi> But this was not done till now.</p>
+                  <p n="3">3dly. <hi>Pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l</hi> was never called an Apoſtle till after this, <hi>Acts</hi> 14.14.</p>
+                  <p>
+                     <hi>Laſtly,</hi> When the Apoſtle chargeth <hi>Timothy</hi> 1 <hi>Tim.</hi> 5.22. <hi>Lay hands ſuddenly on no Man;</hi> the <hi>Affirmative</hi> Is implyed, he <hi>ought to lay hands,</hi> if he ſound a Perſon worthy; <hi>in mandato negativo Affirmativum continetur.</hi> Thus I have given you my Definition, and proved by ſeveral Scriptures; now <hi>Brother,</hi> give me your Definition, and prove it by Scripture; you indeed have not alledged that, <hi>Acts</hi> 14.23. but two others have brought that Text againſt me, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o prove that Election (from the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) with Prayer and Faſting, without <hi>Inpoſition of ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds,</hi> makes a Miniſter.</p>
+                  <p n="1">1ſt. This Text I ſee by <hi>Lutherans</hi> and <hi>Calviniſts,</hi> is brought to prove the Peoples-right in Election; Dr. <hi>Owen</hi> hath made great Uſe of it, ſo Dr. <hi>R<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le,</hi> ſo <hi>Gerhand,</hi> makes great uſe of it; but when they have done ſo, yet they all tell us, a Man is not a Miniſter as yet, but Ordination muſt be, and that as I defined it.</p>
+                  <pb n="12" facs="tcp:52812:11"/>
+                  <p n="2">2dly. I think it is a good rule to help to underſtand the Scriptures, if one Text be obſcure, and there be clearer <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>exts in the Scripture ſpeaking to the ſame thing: Carry the obſcure Text to them, which are <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lear. We have ſeveral clear Texts for Ordination with <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mpoſitio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of Hands,</hi> but not <hi>one</hi> now that gives the leaſt ſhadow to prove ſuch an Interpre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>tion as this. <hi>It falls out very unhappily with ſome Men,</hi> ſaith Dr. <hi>Owen</hi> in another Caſe, <hi>who think they ſee ſome peculiar Opinion, in ſome ſingular Text of Scrip<g ref="char:EOLhyphen"/>ture, and will not bring their Interpretation of it to the Analogy of Faith, and ſee how contrary it is to the Current of the word in other places.</hi>
+                  </p>
+                  <p n="3">3dly. <hi>Paul</hi> knew how Impoſition of Hands in ſeparation to Office, came into the Jewiſh Church, by the poſitive Command of God, and how it continued in that Church. <hi>Secondly,</hi> He know the Practices of the Apoſtles. Now, <hi>Thirdly,</hi> He knew how he himſelf was ſeparated. <hi>Fourthly,</hi> He can tell <hi>Timothy</hi> how he, i. e. <hi>Timothy,</hi> was ſeparated, and charge him that he take care how he laid Hands upon others. Can any rational Man think, that <hi>Paul</hi> now would in theſe Churches, ſeparate Man to Office without <hi>Impoſition of Hands?</hi> I think no Rational Man will believe it. Why then is this Text abuſed?</p>
+                  <p>For my part I am for the Peoples Election, provided it be carried on regularly; and look upon this Impoſing of Miniſters by Patrons upon the People againſt their Conſent, as curſed Tyranny.</p>
+                  <p>But for my own part (giving honour to theſe worthy Men, far more learned than my ſelf) I am not ſatisfyed, that this <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> in this Text, whatever the <hi>Etymology</hi> of the word was at firſt, muſt neceſſari<g ref="char:EOLhyphen"/>ly note the Act of the People <hi>liſting up their Hands</hi> in Election of their Of<g ref="char:EOLhyphen"/>ficers. I rather conſider how the word is uſed, in that Age or Time when Men write. 'Tis well known that words in time do vary in their ſignifi<g ref="char:EOLhyphen"/>cation from what they did at firſt. Among divers others, we have one in Scripture,
+<note place="margin">
+                        <hi>Ethis.</hi> l. 4. Cap. 14.</note> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Ephiſ.</hi> 5.4. <hi>Ariſtotle</hi> tells us how the Word was firſt uſed, and who was <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, a Man that was facetious, pleaſant, Witty, but withal cleanly in his Diſcourſe: But afterwards in his time, if a Man did ſeem to be Witty, tho' Scurrilous and baſe, he now was <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Divers ſuch words we have in the <hi>Latin,</hi> and <hi>Engliſh</hi> Tongue. <hi>Philo</hi> and <hi>Paul</hi> were Contemporaries,
+<note place="margin">Philo <hi>flou<g ref="char:EOLhyphen"/>riſhed in</hi> Caligula<hi>'s Time, and wrote be<g ref="char:EOLhyphen"/>fore Paul.</hi>
+                     </note> and how <hi>Philo</hi> uſeth the Word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. Dr. <hi>Hammond,</hi> has given us an account out of his Works. Like<g ref="char:EOLhyphen"/>wiſe out of <hi>Lucian,</hi> and <hi>Maximus Tyrius.</hi> Where the word is uſed of ſingle perſons, ſo that the word did not in thoſe times ſignifie the ſuffrages of the People, and the Word in Holy Writ, <hi>Acts</hi> 10.41. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> being given to God: Plainly carry it, that the Word doth not <hi>always</hi> in<g ref="char:EOLhyphen"/>tend or force the <hi>Peoples Suffrage,</hi> whatever the Etymology of the Word ſig<g ref="char:EOLhyphen"/>nifles, upon which <hi>Gerbard</hi> lays his ſtreſs. I have not ſeen that piece of Mr. <hi>Selden,</hi> but Mr. <hi>Ranew</hi> told me he had made it clear that <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> had loſt that ſignification theſe contend for, many years before Chriſt.</p>
+                  <p n="2">2dly. That Rule which <hi>Henry Stephens</hi> gives us, concerning <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>; I take to be very true; <hi>When this word governs an Accuſative Caſe, then it ſig<g ref="char:EOLhyphen"/>niſies but to create, Ordain.</hi> Thus he Now in this Text, <hi>Acts</hi> 14.23. it doth ſo, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. But in <hi>Cor.</hi> 2.8.19. which theſe Men urge to confirm their Opinion, there is no accuſative Caſe, but <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. He was <hi>choſen of the Churches.</hi> Let me add to this, the <hi>Syrryack</hi> Verſion: I doubt not but that Tranſlator did underſtand the <hi>Ety<g ref="char:EOLhyphen"/>mology</hi>
+                     <pb n="13" facs="tcp:52812:11"/>of the word as well as any of us; now in this verſe he renders the word they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>id <hi>Conſtitute,</hi> or <hi>Ordain</hi>
+                     <note n="(a)" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> the very ſame <hi>Syriac</hi> word, which is uſed in <hi>Tit.</hi> 1.5. <hi>Ordain Elders.</hi> But in the 2 <hi>Cor.</hi> 8.19. there he uſes a<g ref="char:EOLhyphen"/>nother word, to <hi>chaſe,</hi>
+                     <note n="(b)" place="margin">
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </note> and doubles the Verb, as the <hi>Hebrews</hi> do, which the <hi>Latin</hi> Tranſlation gives thus, <hi>deligendo delectus ſit.</hi> So the vulgar Tran<g ref="char:EOLhyphen"/>ſlation, <hi>Conſtituiſſent.</hi>
+                  </p>
+                  <p n="3">3dly, The Gramatical Conſtruction is more to me than a Criticiſm: when <hi>Paul</hi> and <hi>Barnabas</hi> returned to <hi>Antioch, v.</hi> 22. they returned, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Confirming</hi> the Souls, <hi>&amp;c.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>horting them</hi> to continue, <hi>&amp;c.</hi> Theſe two were <hi>Paul</hi> and <hi>Bar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>abas</hi>'s <hi>Acts,</hi> then <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Paul</hi> and <hi>Barnabas lifted up their hands,</hi> if the word muſt ſignifie ſo from the <hi>Etymology</hi> of the word, this was as much their Act as the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ormer. Let a<g ref="char:EOLhyphen"/>ny School-Boy conſtrue it, tho' the Boy can tell you the Etymology of the word. Then we ſhall have a new <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hion of ordaining, by <hi>Miniſters faſting, praying, and liſting up their ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſides, for the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, how will that agree with the Peoples liſting up their hands, what <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>air ſenſe ſhall we make of it? But if we take the word as we ſee it was uſed in that time, and as <hi>H. Stephens</hi> ſaith, if it governs an accuſative caſe, as it doth in this place, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n the Senſe runs ſmooth, <hi>Paul</hi> and <hi>Barnabas did Conſtitute or ordain them. (i. e.</hi> the <hi>Diſciples</hi> in the ſormer verſe) <hi>Elders in every Church,</hi> &amp;c.</p>
+                  <p n="4">4thly. It is certain the Greek Fathers did uſe their word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> for <hi>Ordination:</hi> Surely they underſtood their own Mother tongue as well as we. I have obſerved <hi>Chryſoſtem</hi> in all thoſe Texts where Impoſition of hands is mentioned; he uſeth <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. <hi>Gerhard</hi> confeſſeth that <hi>Chryſoſtom</hi> and o<g ref="char:EOLhyphen"/>ther <hi>Eccleſiaſtical Writers,</hi> do ſo uſe it. And tho he ſtick to the Etymology of the word to maintain the Peoples right of Election, yet Ordination he ſaith muſt be with <hi>Impoſition of hands,</hi> therefore he ſaith in the next word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>demum ſit mentio,</hi> in their praying, they <hi>Impoſed hands.</hi> Thus he.</p>
+                  <p>As to theſe Fathers who thus uſe the word <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, had they been againſt the Election of the People, then I ſhould have ſuſpected their In<g ref="char:EOLhyphen"/>tegrity in their uſe of the Word, but the People then had their Election of their Biſhops and Presbyters. And one thing I took notice of in the 5th. Century; I read of one <hi>Syn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</hi> a Man of very good parts, who was to be Ordained Biſhop of <hi>Syrene:</hi> But when he ſhould be Ordained, he did not believe the <hi>Reſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rrection of the Body,</hi> yet the People who had elect<g ref="char:EOLhyphen"/>ed him, were ſo earneſt to have him Ordained, that <hi>Theophilus Alexand.</hi> did Ordain him, hoping he might believe it afterwards; as he did. When I read it, I thought what a difference there was between thoſe times and ours, they could Ordain a Biſhop, who did not believe one of the Articles of the Apoſtles Creed (as it is called) but the Church of <hi>England</hi> could caſt out about eighteen hundred Miniſters, but for what? was it becauſe they did not aſſent to the Doctrine of the Church of <hi>England?</hi> I heard Mr. <hi>Har<g ref="char:EOLhyphen"/>mar</hi> ſhould tell Biſhop <hi>Reynolds,</hi> if you can maintain the Diſcipline of the Church, the Diſſenters muſt maintain the <hi>Doctrine</hi> of the Church of <hi>England</hi>) was it becauſe they were ſcandalous in their Converſation? was it becauſe they were Idle and lazy? was it becauſe they did not worſhip God ac<g ref="char:EOLhyphen"/>cording to <hi>His</hi> Word? Bleſſed be God, they could charge us with none of theſe things, for what then? Let them anſwer that when they come to appear before their and our Judges. They were Church-Men and Biſhops that made that Act againſt us.</p>
+               </div>
+               <div n="3" type="section">
+                  <pb n="14" facs="tcp:52812:12"/>
+                  <head>SECT. III.</head>
+                  <p>NOw to your Reaſon, why you Ordain without <hi>Impoſition of Hands,</hi> that which you chie<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y inſiſt upon is this.</p>
+                  <p>
+                     <hi>There is neither Scripture, Precept, no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Preſident, for ordinary Officers, of one. Church, to impoſe Hands in the Ordination of an Officer in another Church</hi> Anſw. <hi>Firſt,</hi> What need of ſuch <hi>Preſidents,</hi> while Apoſtles and Evangeliſts were living? <hi>Secondly,</hi> This Argument of yours plainly implies, that there is Scripture Precept, and Preſident, to ordain in another Church, ſo it be with<g ref="char:EOLhyphen"/>out <hi>Impoſition of Hands:</hi> It lyes upon you to ſhew, where that Precept or Preſident is. I know no ſuch Texts; you acted, did you act in Faith; that you acted according to God, and were well-pleaſing to God, in your ordain<g ref="char:EOLhyphen"/>ing without <hi>Impoſition of Hands?</hi> Then ſhew us that Divine Teſtimony up<g ref="char:EOLhyphen"/>on which your Faith for ſo <hi>acting,</hi> is grounded: You never gave me one as yet; and if you cannot do it, your Faith in this Act is but vain. If there be any thing I do in the Houſe of God, for which I cannot give either <hi>Precept, Preſident, neceſſary Conſequence,</hi> from <hi>Scripture</hi> or <hi>light</hi> of <hi>Nature,</hi> I will lay by that Act, I will not trouble the Peace of the Church, nor hinder Union with my Brethren, by keeping up ſuch Practices.</p>
+                  <p>
+                     <hi>Thirdly,</hi> The Apoſtles did not conſtitute Churches as you do, with one ſingle Paſtor, <hi>&amp;c.</hi> In <hi>Nine</hi> Churches we find ſeveral Teachers, but not one with a ſingle Teacher. In a Young Church at <hi>Antioch, Act.</hi> 13.2, 3. There were <hi>three</hi> Teachers to ſeparate <hi>Paul</hi> and <hi>Barnabas.</hi> There is an Errour then in your Conſtitution, and that does not juſtifie your Error in Ordination.</p>
+                  <p>
+                     <hi>Fourthly,</hi> Give me a <hi>Preſident,</hi> where the Paſtor of one Church did ſo much as preach or pray in another Church; if you cannot, then we muſt not ſo much as preach or pray in another Church: But you have called me and others to preach in your Church.</p>
+                  <p>To this you anſwered me, <hi>You could well do that, from</hi> Matth. 28.19. <hi>go teach all Nations; if ſo, then in other Churches.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw. Firſt,</hi> Set by <hi>Preſidents</hi> then, it ſeems you can find none.</p>
+                  <p>
+                     <hi>Secondly,</hi> I may deny your <hi>Co<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſeq<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ence,</hi> at <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aſt according to ſome Inde<g ref="char:EOLhyphen"/>pendent Principles, unleſs I preach as a <hi>gifted Brother.</hi> To preach to the Nations who were <hi>Heathens,</hi> and to preach in an <hi>Independ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nt</hi> Church, differ. I may preach to <hi>Heathen</hi> as a <hi>Miniſter of Chriſt,</hi> but in an Independent Church, as a <hi>gi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ted Brother.</hi> I wiſh we knew the firſt Author of this Di<g ref="char:EOLhyphen"/>ſtinction, that we might ſcratch his <hi>Cranium,</hi> for ſo witty an Invention.</p>
+                  <p>What your judgment is as to this diſtinction,
+<note place="margin">Lib. 2. p. 101.</note> I cannot tell. But I am of Dr. <hi>Owens</hi> mind: <hi>If I did not think my ſelf bo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd,</hi> ſaith he, <hi>to Preach as</hi> a Miniſter, <hi>and as a Miniſter Authorized in all places, and on all occaſions, whe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> I am called thereunto, I think I ſhould never preach much more in this world.</hi>
+                  </p>
+                  <p>
+                     <hi>Fiſthly,</hi> If that Text will warrant me to <hi>preach</hi> in another Church, it will warrant me to <hi>Baptize</hi> in another Church, if there be need, and I am called to it. They are joined together; and if I may put forth two Acts of Authority, I may alſo put forth a third: If there wants a Paſtor, and I am called to join with others to ſeparate him to his Office, we will do it according to the Word, with <hi>Faſting, Prayer, and Impoſition of Hands,</hi>
+                     <pb n="15" facs="tcp:52812:12"/>without which 'tis not <hi>Ordination:</hi> We do not give him the <hi>Deficition.</hi>
+                  </p>
+                  <p>
+                     <hi>Sixthly,</hi> Since then we are come to <hi>conſequence from Scripture;</hi> I gave you a Scripture, 1 <hi>Cor.</hi> 12.12 <hi>The Body is one, and hath many Members,</hi> &amp;c. He does not mean that particular Church of <hi>Corinth,</hi> is that <hi>one</hi> Body: he adds, <hi>ſo is Chriſt,</hi> v. 13. Jews and Gentiles make up that one Body. v. 25. <hi>The Members of this one Body, muſt have the ſame care one of another.</hi> Does the Apoſtle tye up his Diſcourſe to the Church of <hi>Corinth,</hi> that the Mem<g ref="char:EOLhyphen"/>bers of that Church ſhould have <hi>care one of another?</hi> and if one of their <hi>Members did <gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>er,</hi> v. 26. all the reſt of the Members of <hi>Corinth ſuffer with them,</hi> but for other Churches take no care of them: If they ſuffer, you need not ſuffer with them. Certainly, this was not the Apoſtles meaning. I look upon all particular Churches to be Members of that <hi>one Body:</hi> It is ſuch a Church, in which <hi>Christ hath ſet Apoſtles, Prophets,</hi> &amp;c. v. 28. It is ſuch a Church, where ſome are as <hi>Eyes,</hi> others as <hi>Ears;</hi> ſome as <hi>Feet,</hi> ſome as <hi>Hands,</hi> verſes 15, 16. Therefore he ſpeaks of the <hi>Viſible Church.</hi> If e<g ref="char:EOLhyphen"/>very particular Church were the Body of Chriſt, how many Bodies ſhould Chriſt have? But he hath but <hi>one</hi> Body, as the 12th. verſe, and <hi>Epheſ.</hi> 4.4, 12. tell us. Since th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n all particular Churches are but Members of that <hi>one</hi> Body, and the Lord hath commanded the Members to have care one of another. Surely, the Lord hath not confined the Miniſterial Power of a Pa<g ref="char:EOLhyphen"/>ſtor, to his own particular Church; ſo that if a Neighbour-Church have no Paſtor, that the Paſtors near to this Church may not help that Church to a Paſtor, and in that way which his Word hath declared. Your Practice teſtifieth it; for you would make the Perſon to be ordained, and others believe, you ordain in another Church; and this is an Act of Authority, but not as you perform it, nor according to God's Word, and ſo it is no Ordination.</p>
+                  <p>There is a difference between a Miniſters helping another Church de<g ref="char:EOLhyphen"/>ſtitute of an Officer, in ſeeding them with the Word and Sacraments, a joyning with others in the Ordination of a Paſtor to them, and exerciſing Diſcipline in that Church, in caſe of Scandal. The Church hath ſome Pow<g ref="char:EOLhyphen"/>er to help it ſelf in this Caſe, tho no Paſtor.</p>
+                  <p>For inſtance, a Paſtor of a Church not far from us in the time of Perſe<g ref="char:EOLhyphen"/>cution leaves <hi>England,</hi> goes beyond-Sea many miles; this Church had none to ſeed them: they deſired help of their Neighbour Miniſters, who accord<g ref="char:EOLhyphen"/>ingly did afford them help; ſome preached, ſome baptized their Infants, and others Adminiſtred the Lord's Supper to them. One of the Church fell very foully, being ſeduced by another Profeſſor; the Scandal very great, ſo that the Hearts of good People very ſad, but our Enemies rejoyced; it made ſuch a noiſe in the Country, many miles about us, that the like I be<g ref="char:EOLhyphen"/>lieve have not been known in theſe Parts. I was deſired to preach there; when I had done my Sermon, a Writing was delivered to me, wherein the Church deſired me to declare to the Congregation [which was then very great, being no Sermon in the publick place] their ab<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>orrency of ſuch Acts, and withal deſired me to inform them what was their Duty, what they ought to do in ſuch a Caſe as this. I gave them my thoughts thus: You are but a <hi>Homogeneal</hi> Body, and ſo have no power to Excommunicate, that being an Act of Authority; nor have I any power to call the perſon to an account, and excommunicate: But yet this you may do, ſince the perſon was admitted into Church-Fellowſhip and Communion with your conſent,
+<pb n="16" facs="tcp:52812:13"/>ſhe having fallen ſo foully, diſhonoured God ſo greatly, and opened the mouths of Men againſt Godlineſs, you ſhould firſt meet together, and humble your Souls before God, that there ſhould be ſuch Diſhonour brought to his Name, by one of your Church. Then, <hi>Firſt,</hi> You have the Lord's Supper Adminiſtred ſometimes amongſt you; there you may deny Commu<g ref="char:EOLhyphen"/>nion with her. <hi>Secondly,</hi> You have times when your Church only meet to<g ref="char:EOLhyphen"/>gether, for Prayer, mutual Conference, <hi>&amp;c.</hi> You may there deny her Com<g ref="char:EOLhyphen"/>munion alſo; but when you meet publickly with others, there you ſhould not deny, but ſhe may be preſent at Prayer, being it is natural Worſhip; tho ſhe were actually excommunicated, and rendred as a <hi>Heathen;</hi> I have ſeen the <hi>Indians</hi> preſent with us, at Prayer, and Preaching, tho' as yet they had not embraced Chriſtianity. <hi>Thirdly,</hi> As for the Civil Famili<g ref="char:EOLhyphen"/>arity you had with her before, you ought to ſuſpend that too, 2 <hi>Theſſ.</hi> 3.14. and verſe 6. yet having a care of her, being in a poor condition, that ſhe do not periſh. <hi>Fourthly,</hi> You may chooſe three or ſour of your chief Members, and ſend them to her, to make her know, the Determination, of the <hi>Church,</hi> and that the <hi>Church</hi> doth this, <hi>in the Name of the Lord Jeſus.</hi>
+                  </p>
+                  <p>The Church did ſo, the effects of it was, the clamours of the People ceaſed; the Mouths of them who before were opened againſt us, were ſilent, and now they rather ſound ſault with me, that I was too ſharp upon the Perſon offending, the effect was a relenting, and humbling of her ſelf before God in the publick Congregation, to the ſatisfaction of the Church, ſhe is now dead, but the Church having then their Paſtor, abſolved her before ſhe died: and it was a comfort to her: her <hi>Abſolntion</hi> was with<g ref="char:EOLhyphen"/>out <hi>money.</hi>
+                  </p>
+                  <p>By this I ſee, were this Ordinance of Church Diſcipline carried on ac<g ref="char:EOLhyphen"/>cording to the word of God (which hath been ſo fearfully abuſed) we ſhould need no Writ <hi>de Excommunicato capiendo:</hi> I did but add a ſew words, what the caſe of ſuch a perſon was under this Sentence, and it ſtruck an awe in the hearts of Carnal People.</p>
+                  <p>To return to my Brother. To what I have ſaid from the <hi>one body</hi> in the <hi>Corinth.</hi> 12. That the Paſtors of Churches may help other Churches, where there are none, and they call <hi>to help them,</hi> you anſwer me.</p>
+                  <p>
+                     <hi>This is all you have to ſay, and there is little in it.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> No, not all, Brother; I gave you your own Text, whereby you proved that Paſtors of other Churches may joyn with you in days of Faſting and Prayer, and preaching; and if ſo then in <hi>Ordaining.</hi>
+                  </p>
+                  <p n="2">2dly. I gave you the Texts of Scripture, whereby the Synod of <hi>N. Eng<g ref="char:EOLhyphen"/>land</hi> proved, they might ordain in another Church, with <hi>Impoſition of hands.</hi>
+                  </p>
+                  <p>You tell me, <hi>you deny a Political-viſible Catholick Church.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> So do I. If I ſaid but little, I am ſure you ſay too much. How doth it follow? Becauſe we may help neighbour Churches, when they call us to help them with Paſtors in a Goſpel way. <hi>Therefore</hi> I muſt own a <hi>Political, viſible, Catholick Church.</hi> I gave you inſtance before, how Churches may help to purge themſelves from ſeandalous perſons, tho they have no Officers. If there be a Family by us where are ſeveral Children Pa<g ref="char:EOLhyphen"/>rents both dead, and there is none that takes care of them to help them to food: It is one thing for me to go to the Houſe, and help them with food, another thing to caſt one of the Children out of the Houſe, if it be croſs, refractory, and will not be reclaimed by counſel. Thecaſe is
+<pb n="17" facs="tcp:52812:13"/>the ſame here; twenty or forty Elders may meet to give Counſel in a Caſe, leaving the Execution to the Church whence the Caſe depends.</p>
+                  <p>You tell me, <hi>Miniſters are not ſet over the whole Church, their Power may be re<g ref="char:EOLhyphen"/>fuſed in other Congregations.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> But they do not <hi>refuſe</hi> their Power, when they <hi>Call</hi> for it, and de<g ref="char:EOLhyphen"/>ſire to help them in their want. I limit the Power of Elders to other Church<g ref="char:EOLhyphen"/>es, to the <hi>Call</hi> of thoſe Churches, being in want. They are not therefore ſet over the <hi>whole</hi> Church.</p>
+                  <p>When you with the two other Miniſters [they go for ſuch] did ſeparate that illiterate Perſon to the Work of the Miniſtry, did you Act as <hi>Officers</hi> or as private <hi>Brethren?</hi> If you acted as private Brethren, then I am ſure he is no Miniſter; the Brethren of the ſame Society had more right than you. If you acted as Officers, then it ſeems you could not put forth Official Power in ano<g ref="char:EOLhyphen"/>ther Church. To ſeparate to an Office, is an Act of Authority. <hi>Whom we may appaint,</hi> [not the People] <hi>Act.</hi> 6.3.</p>
+                  <p>You tell me, the 13 <hi>Acts</hi> 3. <hi>is no Platform for us, unleſs we have an immediate Command from God to Ordain Men.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> The immediate Command was in the ſeparating <hi>Paul</hi> and <hi>Barnabas</hi> to the Work of their <hi>Apoſtleſhip.</hi> The Command was not to Teach them <hi>how</hi> they ſhould ſeparate; the Lord ſaith only, <hi>Separate,</hi> &amp;c. they knew how they ſhould ſeparate before. The Synod of <hi>New-England</hi> and Dr. <hi>Owen</hi> were much miſtaken, who quote this Text for Ordination by <hi>Impoſtion of Hands:</hi> But to this Text I have ſpoken before.</p>
+                  <p>As to what you ſay, <hi>That Gifts were then Conſerred with the Impoſition of Hands.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> The end when the Lord firſt Commanded it, was not to Conferr <hi>Gi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ts,</hi> but to <hi>ſeparate,</hi> Numb. 8.10, 14. ſo <hi>Acts</hi> 13.3. <hi>Separate we Paul,</hi> &amp;c.</p>
+                  <p n="2">2. The <hi>Savoy</hi> Conſeſſion is againſt you, if there be Elders in the ſame Church, it calls for <hi>Impoſition of Hands.</hi>
+                  </p>
+                  <p n="3">3. <hi>Paul</hi> and <hi>Barnabas</hi> were Gifted before, as I named the Texts.</p>
+                  <p n="4">4. The Deacons were Gifted before their Ordination, <hi>Acts</hi> 6.3.</p>
+                  <p n="5">5. <hi>Paul</hi> then needed not to have given that Caution to <hi>Timothy,</hi> 2 Tim. 2.2. that they be <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, to whom he Committed the Goſpel-Doctrine; for <hi>Timothy</hi> by the Impoſing Hands might Conferr Gifts, and make them able, or fit Men for the Work.</p>
+                  <p n="6">6. As to what you gather from 1 <hi>Tim.</hi> 4.14. for your Proof, that Text you know admits of Controverſie: As whether <hi>Timothy</hi> was not firſt Ordained a Presbyter, and aſterwards an Evangeliſt? Whether <hi>Paul</hi>'s Impoſition and the Presbyters were both at the ſame time? <hi>&amp;c.</hi> but this is certain, laying the 1 <hi>Tim.</hi> 1.18. and 2 <hi>Tim.</hi> 1.6. together with this Text, there was ſomething extraordinary as to <hi>Timothy</hi>'s Gifts, in which the Pres<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>teries Impoſition had no ſhare; the Propoſitions differ, it is <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>by the putting on of my Hands;</hi>
+                     <note place="margin">
+                        <hi>See</hi> Dido<g ref="char:EOLhyphen"/>clavius <hi>Al<g ref="char:EOLhyphen"/>tare Damoſ.</hi> p. 161. <hi>Thus</hi> Gil<g ref="char:EOLhyphen"/>loſpy <hi>Miſc.</hi> p. 101.</note> but 'tis <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>with the la<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ine o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of the Hands of to<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Presbitery,</hi> after Prophecy. So that when <hi>Paul</hi> and the Presbytery did both impoſe Hands, the <hi>Gift</hi> was conveyed as <hi>Paul</hi> ſaith, <hi>by my Hands.</hi> But as to <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s <hi>Office</hi> to a Poteſtative, Authorita<g ref="char:EOLhyphen"/>tive Miſſion, the Impoſition of the Hands of the Presbytery did conc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rr with <hi>Pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi>'s.</p>
+                  <p>You tell me, <hi>I muſt own Succiſſion, and thoſe polluted Hands,</hi> &amp;c.</p>
+                  <p>
+                     <hi>Anſw.</hi> Your Argument ſpeaks thus, If you will have no Ordination without
+<pb n="18" facs="tcp:52812:14" rendition="simple:additions"/>Impoſition of Hands, according to Scripture, then you muſt own <hi>Succeſſion.</hi> So I will: Was Impoſition of Hands in Ordination, an Invention of <hi>Rome,</hi> or an Inſtitution of <hi>God?</hi> the Papiſts can prove their Act in this Point by Scrip<g ref="char:EOLhyphen"/>ture, ſo cannot you.</p>
+                  <p n="2">2. Mr. <hi>Robinſon,</hi> Mr. <hi>Johnſon,</hi> tho' rigid old Separates, yet worthy Men, made light of this Argument, becauſe it was God's own Appoinement</p>
+                  <p n="3">3. You had beſt throw away <hi>Baptiſm,</hi> becauſe their polluted Hands do ad<g ref="char:EOLhyphen"/>miniſter it.</p>
+                  <p n="4">4. This concerns the firſt Reformers. We receive our Ordination from godly and learned men, who hate and have caſt off whatever is <hi>Romiſh,</hi> but not the Holy S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ripture, becauſe they paſs through <hi>Rome</hi> to us.</p>
+                  <p>As to the Text you quote, <hi>Phil</hi> 3.16. <hi>When eunto we have already attained,</hi> &amp;c. this is nothing to our Caſe, nor will it heal.</p>
+                  <p>Several there were who did believe in Chriſt, and embraced the Goſpel, but were not ſo clear in the total Abolition of the Ceremonial <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw, as <hi>Rom.</hi> 14. ſhews: But however ſince they had believed in Chriſt, and embraced the Goſpel, walk according to that Rule unto which you have attained, God will reveal more in time: The Caſe is nothing like. You have attained to Faſting and Prayer in Ordination, but not to <hi>Impoſition of Hands.</hi> But Faſting and Prayer we uſe and may uſe in twenty Caſes, but theſe Caſes do not make twen<g ref="char:EOLhyphen"/>ty diſtinct Ordinances, though we Faſt and Pray: It is but one Ordinance. But Separation to the Work of the Miniſtry is a diſtinct Ordinance.</p>
+                  <p>Secondly, <hi>They were to walk by the ſame Rule:</hi> But by what Rule do you walk? for the Rule is <hi>with I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>poſition of Hands,</hi> according to which you do not walk.</p>
+               </div>
+               <div n="4" type="section">
+                  <head>SECT. IV.</head>
+                  <p>AFter I had done with this Brother, there came to my Hand a little Book, put out by another Brother, who writes thus, <hi>All Church-Officers are made by Ordination, and Ordained alike;</hi> [is there no difference between <hi>Acts</hi> 6.6. and <hi>Acts;</hi> 3.3?] <hi>and that Ordination is not Impoſition of Hands; and if the moſt be made of it, it's but a Ceremony annexed, which is now obſolete.</hi>
+                  </p>
+                  <p>It's <hi>But</hi> a Ceremony: Whoſe Ceremony is it? Did <hi>Man</hi> or <hi>God</hi> Inſtitute it? If it be <hi>God's,</hi> methinks it is not com<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y for a Creature to caſt a ſlighting <hi>But</hi> upon any of his Inſtitutions. What was the whole Ceremonial Law? yea, What is <hi>Water</hi> in Baptiſm, <hi>Bread</hi> and <hi>Wine</hi> in the Lords Supper, ſetting by the Authority of him who did Inſtitute them? the Image of a King ſtamped upon a Farthing, tho' but a Farthing, who dare refuſe it?</p>
+                  <p>Though it be but a <hi>Ceremony,</hi> yet being God's Inſtitution and Command, there is,</p>
+                  <p n="1">1. <hi>Neceſſitas Praecepti</hi> anne<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ed to it, and it is Diſobedience to his Inſtitution to Omit it. The Spirit is pleaſed three times to ſet forth the whole Work of Ordination by this <hi>Ceremony</hi> [as you call it] alone.</p>
+                  <p n="2">2. There is <hi>
+                        <gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſitas Medii,</hi> in this ſenſe, <hi>viz</hi> To the ſending forth of a Per<g ref="char:EOLhyphen"/>ſon to Preach and Adminiſter all Ordinances in God's Houſe with <hi>Authority.</hi> Dr. <hi>Owen</hi> rightly calls it, <hi>The Symbol of Auth<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itati<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nation.</hi> Our Bre<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>hren of <hi>Scotland</hi> call it, a <hi>Medi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m,</hi> of <hi>Co<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>nicating Auth<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ity to the Perſon Or<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ained.</hi> When the Presbytery <hi>Praying and Impoſing Hands,</hi> do in the Name of the Lord Jeſus, the King of his Church, Separate a Man to the Work of the Mi<g ref="char:EOLhyphen"/>niſtry,
+<pb n="19" facs="tcp:52812:14"/>the Act carries Authority in it. By the <hi>Impoſing their Hands,</hi> they do Impoſe the Charge, the Burden, the Work of the Miniſtry upon the Perſon in the Name of the Lord. Perſons in Authority do in the Name of the Lord Con<g ref="char:EOLhyphen"/>vey Authority.</p>
+                  <p>The Apoſtle bids <hi>Timothy,</hi> 2 Tim 2.2. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Com<gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> the things</hi> &amp;c. the Perſons muſt be firſt <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, fit to Teach other, <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Men,</hi> before he Commits them, this is plain. But then how doth <hi>Terothy</hi> Commit the thines to them, when he finds them ſuch? [<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Commendatur de<g ref="char:EOLhyphen"/>poſitum <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>andum, &amp; ſuo tempor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> red<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" resp="#UOM" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>,</hi> Ear<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>us. So the <hi>Sitia<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k, D<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſuit in ſidem alle<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>jus.</hi>] That it is an Act of Authority, <hi>Luk.</hi> 12.48. is plain. <hi>Timo<g ref="char:EOLhyphen"/>thy</hi> does not Commit them by <hi>Election,</hi> that is the Act of the People you tell us; he could not do it by Conſerring <hi>Gifts,</hi> he had no ſuch Power: Beſides, he muſt ſee they be ſuch before he Commits them. He did not do it by Pray<g ref="char:EOLhyphen"/>er for them, any might have ſo Committed as well as <hi>T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mothy,</hi> and Prayer is no Act of Authority; but when <hi>T<gap reason="illegible" resp="#UOM" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap>y</hi> Prays and <hi>Im<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ſes Hands</hi> to ſeparate them to the Work of the Miniſtry, which <hi>Pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> charged him <hi>not to do it ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dden<g ref="char:EOLhyphen"/>ly,</hi> 1 Tim. 5.22. Now he <hi>Commits</hi> them: Now <hi>Separation</hi> to the Work is ſeen, and not before. So that when the Presbytery do <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, they do <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>After I had done, I met with Mr. <hi>Gilleſp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s</hi> upon the Text, <hi>Miſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tl.</hi> p. 52. which he ſaith is a conſiderable Text againſt the <hi>So<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inians</hi> and <hi>Anabaptiſts,</hi>
+                     <note place="margin">What work theſe Gifted Brethren have made in Churches, we ſee to our ſhame.</note> [which this Practice of our Brethren, and crying up <hi>Oiſted Brethrens Preaching,</hi> have not a little ſtrengthned, to the bringing in of Conſuſion and Diſorder into the Church, as we ſee at this day, to the ſhame of Reformation] and he gives the ſence of the Text as I have done, for Ordination, which in another place he ſaith muſt be with Impoſition of Hands.</p>
+                  <p>As to his ſaying that it is a <hi>Coremony now Obſo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ete:</hi>
+                  </p>
+                  <p>I thought the Word <hi>Obtolete</hi> did connote a thing out of Date, out of Uſe, worn thred-bare; but <hi>Impoſition of Hands</hi> in Ordination, hath been uſed in the Jewiſh Church and the Chriſtian Church in all Ages to this day, among all Chur<g ref="char:EOLhyphen"/>ches; ſo that if it be <hi>obſolete,</hi> it muſt be only among ſome few Independents of yeſterdays ſtanding, and is this ſufficient to make it <hi>obſolete?</hi>
+                  </p>
+                  <p>One Word about Popular Election, becauſe I ſee it is that which gives the Eſ<g ref="char:EOLhyphen"/>ſence to a Miniſter in ſome Mens Opinion.</p>
+                  <p>I am for the Peoples Election, provided it be regularly carryed on; but that it makes a Miniſter, I cannot yield to that.</p>
+                  <p>Mr. <hi>Eliot</hi> and thoſe I mention'd before, Preach to the <hi>Indians,</hi> God works with their Miniſtry, brings ſome to the Faith in Chriſt, they are formed into a Church, they chooſe Mr. <hi>Eliot</hi>
+                     <note n="*" place="margin">Suppoſe it had been ſo.</note> to be their Miniſter, ſo then <hi>their Election</hi> makes Mr. <hi>Eliot</hi> a Miniſter; is not this pretty Logick, the Effect give the Eſſence to the Cauſe. If the People be viſible Saints, they are ordinarily the Effect of the Miniſtry [tho' not of that particular Miniſter whom they chooſe it may be] as Miniſters are ſaid to be <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, and <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Workers together with God,</hi>
+                     <note place="margin">1 Cor. 3.6. 2 Cor. 6.1.</note> In<g ref="char:EOLhyphen"/>ſtruments in his Hand.</p>
+                  <p n="2">2. If the Election of a Deacon do not give the Eſſence to a Deacon, then the Election of a Miniſter doe not give the Eſſence to a Miniſter, but the Antecedent is true, <hi>Ergo.</hi>
+                  </p>
+                  <p>Unto all Church-Officers <hi>Election</hi> gives the Eſſence [as they ſay] and no won<g ref="char:EOLhyphen"/>der if the People be the <hi>firſt Subject of the Power of the Keys,</hi> as it is in theſe Mens Opinion; then if it doth not give the Eſſence to a <hi>Deacon,</hi> then not to another
+<pb n="20" facs="tcp:52812:15"/>Officer, nay, much leſs to a Miniſter; for the People may be more able to judge of an Officer to <hi>ſerve Tables,</hi> than they are able to judge of the Abilities and Soundneſs of a Man to be choſen a Miniſter: But it did not to a Deacon. <hi>Whom</hi> We <hi>may appoint over this B<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſiteſs,</hi> Acts 6.3. ſay the Apoſtles. It was not their <hi>Election</hi> that did Conſtitute them Deacons, but the Apoſtles <hi>Authoritatively kp<g ref="char:EOLhyphen"/>pointing them over this Buſin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>s. We</hi> appoint, not <hi>Y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </hi> appoint. As <hi>Pharaoh</hi> ap<g ref="char:EOLhyphen"/>pointed <hi>Joſeph</hi> Governour over <hi>Egypt,</hi> Acts 7.10. the ſame Word, the Act of Authority.</p>
+                  <p n="3">3. A Man whom God hath qualified, may be Ordained to the Work of the Miniſtry, tho' there he no People to Elect him: As if one having gotten the Language of ſome Heathens, he may go and Preach among them, and if God bleſs his Miniſtry he may Baptize them, if there be lent one or two at one time, as <hi>Philip</hi> did the Eunuch, and as the Apoſles <hi>Paul</hi> and <hi>Bounabas,</hi> who were Or<g ref="char:EOLhyphen"/>dained before they were ſent ſorth to the Gentiles, [of which we ſee no need, as I ſaid before, they carrying their <hi>Credentials</hi> with them, the Power of Mira<g ref="char:EOLhyphen"/>cles] but that Man cannot Baptize unleſs he be <hi>Ordained,</hi> he is not in <hi>Authority</hi> before he be Ordained.</p>
+                  <p>So that true Qualiſication and Fitneſs for the Miniſtry, and Authoritative Se<g ref="char:EOLhyphen"/>paration to the Miniſtry makes <hi>A</hi> Miniſter: Election of the People makes him <hi>their</hi> Miniſter.</p>
+                  <p n="4">4. Tho' I deny <hi>Election</hi> to give the Eſſence, yet ſuppoſe Election to be an In<g ref="char:EOLhyphen"/>gredient into it; where two things meet together to the Conſtitution of an Offi<g ref="char:EOLhyphen"/>cer, <hi>Subjection</hi> and <hi>Authority,</hi> certainly <hi>Authority</hi> gives the Eſſence more than <hi>Sab<g ref="char:EOLhyphen"/>miſſion;</hi> thus Dr. <hi>Owen,</hi> the People Electing <hi>Sabmit themſelves;</hi> and Dr. <hi>Ames</hi>
+                     <note n="*" place="margin">
+                        <hi>Bellar. enera.</hi> to. 2. p. 87.</note> before him, anſwering <hi>Bellarmin,</hi> who made it ſtrange, <hi>that Sheep ſhould chooſe their Shepherd: Yes,</hi> ſaith Dr. <hi>Ames, rational Sheep may chooſe their Shepherd, not by Juriſdiction, but by Sabjection.</hi>
+                  </p>
+                  <p n="5">5. The Scriptures which are for Ordination by <hi>Impoſition of Hands</hi> are more in number, and far more clear than thoſe for Election; the firſt Text which they bring for Election, <hi>Acts</hi> 1.15. this differs much from curs, for our Election is with <hi>Subjection</hi> to him whom the People Elect: But this was not ſo. Did <hi>Peter</hi> [the Pope will be angry if you tell him ſo] and the other Apoſtles <hi>ſabject</hi> themſelves to him whom they Choſe? 2ly. It was chooſing one of their own Order, not one <hi>above</hi> them, ſo does not Popular Election. 3ly. Tho' <hi>Peter</hi> did ſpeak to all preſent, yet it does not appear that all preſent did chooſe, but the Apoſtles, for they could tell beſt, <hi>who had accompanied them all the time the Lord Jeſus went in and out among them,</hi> V. 21, 22. Surely all that were preſent could not tell who thoſe were as the Apoſtles. 4ly. They gave forth their <hi>Lotts,</hi> V. 26. 5ly: They Prayed to the Lord, <hi>to ſhew whether of theſe two</hi> Thou <hi>haſt choſen,</hi> 24. Is this Text clear for <hi>Popular Election?</hi>
+                  </p>
+                  <p>The 6 <hi>Acts</hi> 3. is the cleareſt for <hi>Election,</hi> but not of a <hi>Paſtor.</hi> The 14 <hi>Acts</hi> 23. is much Controverted, and theſe are all I meet with for Popular Election. But for the other, we have <hi>Firſt,</hi> God's own Inſtitution. <hi>Secondly,</hi> We have <hi>five</hi> Scriptures more in the New Teſtament, which are plain for it, which makes me wonder how it came about that any Men of Learning ſhould put ſo much up<g ref="char:EOLhyphen"/>on Election, that it ſhould give the <hi>Eſſence</hi> to a Miniſter.</p>
+                  <p n="6">6. The Peoples <hi>Election</hi> gives the Eſſence to a Miniſter: What, without his <hi>Ac<gap reason="illegible" resp="#UOM" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ptation?</hi> No ſure. If <hi>ten</hi> Churches chooſe a Man, he may reſuſe them eve<g ref="char:EOLhyphen"/>ry one, he may have Reaſons for it; Where then is the Eſſence their Election gives? my <hi>Acceptation</hi> is every whit as eſſential to my being a Miniſter, as their
+<pb n="21" facs="tcp:52812:15"/>Election; why then is the <hi>Cauſality</hi> given to <hi>their Election?</hi> To be a Miniſter to <hi>them,</hi> that they may <hi>demand</hi> of me, and I be <hi>bound</hi> to adminiſter all Ordinances <hi>to them,</hi> by way of Office, I grant here their Election and my Acceptation are eſſential: But to be <hi>A Miniſter,</hi> hath other Cauſes, where Popular Election hath no Canſality.</p>
+                  <p>That a People muſt ſubject themſelves to a Miniſter, and perſorm all the Du<g ref="char:EOLhyphen"/>ties the Word of Go I require to a Miniſter, and yet not chooſe him, is Tyran<g ref="char:EOLhyphen"/>ny fit for <hi>Rome,</hi> not for the Church of Chriſt.</p>
+                  <p>This Notion of Popular Election giving the Eſſence to a Miniſter, is the ground of that Witty Diſtinction of a Miniſter's Preaching; if he Preach to his People that Choſe him, then he Preaches as a <hi>Miniſler,</hi> but if in another Church, then as a <hi>Ciſted Brother.</hi> And hence they muſt not Adminiſter the Sacraments in ano<g ref="char:EOLhyphen"/>ther Church, tho' there be need, and the Church deſire; he muſt not Act as a Miniſter beyond them who gave him <hi>the Eſſence of a Miniſter:</hi> And this they would prove or illuſtrate from a Mayor of a Corporation, who out of his Corpo<g ref="char:EOLhyphen"/>ration hath no Power.</p>
+                  <p>
+                     <hi>Anſ.</hi> 1. In a Kingdom or Corporation 'tis ſufficient there be a People <hi>firſt,</hi> of whom neither the King nor the Mayor are Cauſes in the leaſt; in the Church 'tis not ſufficient there be a People, but <hi>ſuch</hi> a People, <hi>viz.</hi> Viſible Saints, of whom God hath Ordained the Miniſtry, to be in his Hand the Inſtrument to make them <hi>ſuch.</hi> So that the Miniſtry is <hi>firſt,</hi> and an Inſtrumental Cauſe to make them a People <hi>as ſuch.</hi>
+                  </p>
+                  <p n="2">2. The Work of a Mayor is to <hi>Govern</hi> only. A Miniſter hath other Work, to feed <hi>with Word and Sacraments,</hi> which they may do, when called to it, where they cannot <hi>Govern,</hi> as I ſhew'd before.</p>
+                  <p n="3">3. The Catholick viſible Church, made up of particular viſible Churches, is called <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, <hi>Epheſ.</hi> 4.4. 1 <hi>Cor.</hi> 12.12. and we are all Members of that <hi>one Body,</hi> and the Members are bound to help one another, elſe 'tis contrary to the Light of Nature, 1 <hi>Cor.</hi> 12.25. But where do you read that all Corporations and Kingdoms make <hi>one Body of Chriſt.</hi>
+                  </p>
+                  <p n="4">4. I think Paſtors and Teachers are <hi>Miniſters;</hi> the Apoſtle calls himſelf and others ſo, <hi>Miniſters,</hi> 1 Cor. 3.5. The Apoſtles were Catholick Paſtors to the Catholick Church
+<note n="*" place="margin">2 Cor. 11.28. <hi>The Care of all the Church<g ref="char:EOLhyphen"/>es.</hi>
+                     </note> 
+                     <hi>Actu primo &amp; ſecundo</hi> depended upon the Call of no Church to Act in that Church al. Acts of Power, yet <hi>Miniſters.</hi> Hence we ſay the <hi>Mi<g ref="char:EOLhyphen"/>niſtry</hi>
+                     <note n="†" place="margin">1 Tim. 1.12. 2 Tim. 4.5. Col. 4.17.</note>, not <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he <hi>Paſtorſhip.</hi> I then a Man be a Paſtor of ſuch a Church, both <hi>Actu primo &amp; ſecundo,</hi> yet he is a <hi>Miniſter,</hi> and doth habitually <hi>actu primo,</hi> bear a reſpect to the Catholick Church, and may perform the Acts of a Miniſter to another Church that is in want, and cannot at preſent help themſelves, and call upon him to help; for as he is <hi>a Miniſter,</hi> that Church which Called him was no Cauſe of that.</p>
+                  <p>What diſſerence is there between the Acts of a <hi>Paſtor</hi> and a <hi>Miniſter?</hi> becauſe I read one ſaying. <hi>He may Preath as a</hi> Miniſter, [which is better than a <hi>Giſted Brother] but not as a</hi> Paſtor.</p>
+                  <p>This giving the <hi>Keye</hi> to the <hi>Fraternity,</hi> as the <hi>firſt Subject</hi> of them, hath brought in that Sin which Mr. <hi>Whan</hi> [that Emitrent Servant of Chriſt, and my former <hi>Paſtor</hi>] calls <hi>Koraiſm.</hi>
+                     <note n="*" place="margin">
+                        <hi>See M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>. Quick's Sermo. a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Mr.</hi> Fal<g ref="char:EOLhyphen"/>do<hi>'s Fun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>
+                           <g ref="char:EOLhyphen"/>ral,</hi> p. 22.</note> What Mr. <hi>Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ick</hi> writes I am both an Eye and Ear-wit<g ref="char:EOLhyphen"/>neſs to: About fitty ſour Years ſince he Preached on <hi>Mar.</hi> 2.5. in <hi>Boſton</hi> in <hi>New-England,</hi> and did think-the P<gap reason="illegible" resp="#UOM" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>-man had Faith, becauſe Chriſt tells him, <hi>his Sins were forgiven,</hi> but no Forgiveneſs without Faith; up roſe one <hi>firſt,</hi> for<g ref="char:EOLhyphen"/>ſooth
+<pb n="22" facs="tcp:52812:16"/>he was not ſatisfied, then another after him, then Mr. <hi>Cotton</hi> our Teach<g ref="char:EOLhyphen"/>er he took up our Paſtor's Caſe, and defended it, and ten, one after another, fell upon him: Tho' the Text does not ſay, when Jeſus ſaw <hi>his,</hi> but <hi>their</hi> Faith, it doth not follow but the Palſie-man might be included in the word <hi>their;</hi> and <hi>his</hi> Faith put them on, both the Bearers and Palſie-man had Faith. This was too common in that Church, though the moſt publick, where Seamen and all Strangers came. Sir <hi>Henry Vane</hi> was the Man that did embolden them, when Miniſters had done Preaching, he would find Queſtions to put to them, though they were Strangers.</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>Second Queſtion.</head>
+               <p>AReverend Author out of a Book compoſed [as he tells us] by ſeveral Biſhops and great Doctors, and approved by Authority, in King <hi>Henry</hi> the Eighth's dayes, hath Collected theſe Propoſitions:</p>
+               <q rend="margQuotes">
+                  <p>
+                     <hi>Firſt,</hi> That a Parochial or Congregational-Church Government, is accord<g ref="char:EOLhyphen"/>int to the Church of <hi>England, jure Divino,</hi>
+                  </p>
+                  <p>
+                     <hi>Secondly,</hi> That the Dioceſan or National Government is <hi>jure Hamano.</hi>
+                  </p>
+                  <p>
+                     <hi>Thirdly,</hi> That Proteſtants [except ſome obſcure Writer] aſſert, <hi>Particular Churches to be the</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>of Church-Government.</hi>
+                  </p>
+                  <p>Among whom, ſaith he, there are theſe differences:</p>
+                  <p n="1">1. The Epiſcopal and Presbyterian differ from the Congregational about the Extent of particular Churches, <hi>i. e.</hi> the <hi>Congregational</hi> concludes there muſt be no more than are capable of Perſonal Communion: The former make a greater extent, and give too great advantage to <hi>Papacy.</hi>
+                  </p>
+                  <p n="2">2. They differ concerning the Nature of Diſcipline; the Congregational be<g ref="char:EOLhyphen"/>ing eſteemed an Eſpouſer of a <hi>Democracy,</hi> the Presbyterian of an <hi>Ariſtocracy,</hi> the Epiſcopal of <hi>Monarchy.</hi>
+                  </p>
+                  <p>[But <hi>Maccovius</hi>
+                     <note n="a" place="bottom">
+                        <hi>Theol. Polem.</hi> p. 161.</note>, <hi>Keckerman</hi>
+                     <note n="b" place="bottom">
+                        <hi>Syſt. Theol.</hi> p. 3.</note> mention another, <hi>Ariſto Democratical,</hi> and Dr. <hi>Ames</hi>
+                     <note n="c" place="bottom">
+                        <hi>Medul. Theol.</hi> p. 1. c. 33. <hi>theſ.</hi> 20.</note> ſeems to be of the ſame judgment]</p>
+                  <p>
+                     <hi>Fourthly,</hi> All Proteſtants agree in afferting the <hi>Independency</hi> of particular Churches.</p>
+               </q>
+               <p>Thus far my Author.</p>
+               <p>That we may underſtand one another clearly: Suppoſe we then that all the Chriſtians in <hi>England,</hi> that dwell in their ſeveral Pariſhes, were ſuch as deſerved the Name of <hi>Viſible Saints;</hi> theſe meet every Lords-Day in their Pariſh-Church [as they call it] to Worſhip God, where there is but one Paſtor. [Lecturers and Readers are but in few Pariſhes in the Countrey, nor have they any Power in Church-Government.]</p>
+               <pb n="23" facs="tcp:52812:16"/>
+               <p n="1">1. Are theſe the particular Churches you mean, by the words <hi>Parochial</hi> and <hi>Congregational?</hi> I ſuppoſe my Brother means ſo.</p>
+               <p n="2">2. Is every ſuch particular Church the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the Power of the <hi>Keys?</hi>
+               </p>
+               <p n="3">3. Are all theſe <hi>Independert?</hi> my Brother hath ſaid it.</p>
+               <p>
+                  <hi>Firſt,</hi> I deſire my Brother would Name one ſuch Church, which the Apoſtles did Conſtitute but with one Teaching Elder or Paſter.</p>
+               <p>
+                  <hi>Secondly,</hi> How you may perſwade the Paſtor to admit the People to be <hi>Rulers</hi> with them, I cannot tell, but I doubt we ſhould have a <hi>Monarclical-Government</hi> ſet up in every Pariſh in <hi>England,</hi> which you ſay the Biſhops eſpouſe.</p>
+               <p>Mr. <hi>Norton,</hi> as acute and Learned Divine as <hi>New-England</hi> had, being at a Meet<g ref="char:EOLhyphen"/>ing of about forty Elders, one that was newly come into the Countrey was read<g ref="char:EOLhyphen"/>ing to the Elders what his Judgment was about Church-Government: He would have it to be <hi>Democratical,</hi> quoting <hi>Morellus</hi> ſeveral times: What have we to do with <hi>Mor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llus,</hi> ſaid Mr. <hi>Norton</hi> to me; if I cannot prove the Government of the Church to be <hi>Presbyterial,</hi> I will give up our Cauſe.</p>
+               <p>
+                  <hi>Thirdly,</hi> If all theſe particular Churches be <hi>Independent,</hi> I fear we ſhould have wild doings, Experience have proved it already.
+<note place="margin">At this day we ſee wo<g ref="char:EOLhyphen"/>ful effects of it.</note> If there be one or two Gen<g ref="char:EOLhyphen"/>tlemen, of <hi>Purſe, Piety</hi> and <hi>Parts,</hi> that ſtick cloſe to the Miniſter, and awe the People, things may go on quietly; elſe if there be but two Self-conceited, prag<g ref="char:EOLhyphen"/>matical Fellows, as I have known, you ſhould ſoon ſee what will become of your Parochial-government.</p>
+               <p>
+                  <hi>Fourthly,</hi> Suppoſe the Paſtor be foully ſcandalized by ſome of his Church, one or more, how ſhall the Government be carryed on? ſhall he be Plaintiff and Judge in his own Caſe? I have known a Caſe where a Paſtor had great Offence given, I propounded the Caſe to Dr. <hi>Owen</hi>
+                  <note n="*" place="margin">
+                     <hi>And Mr.</hi> Faldo.</note>, whether that Paſtor ſhould pro<g ref="char:EOLhyphen"/>ceed according to <hi>Matth.</hi> 18.15, 16? he told me by no means, when he heard my Reaſon. We ſhall meet with hard Caſes if we come to ſet to Government indeed.</p>
+               <p>
+                  <hi>Fifthly,</hi> Suppoſe the Paſtor himſelf grow ſcandalous, how ſhall Government be carried on now?</p>
+               <p>
+                  <hi>Sixthly,</hi> Good Men and Miniſters are ſubject to Paſſions and Infirmities, whence it is not fit the Government of the Church ſhould be Committed to <hi>One</hi> alone.</p>
+               <p>
+                  <hi>Seventhly,</hi> To <hi>Govern will</hi> is a Giſt by it ſelf; a Man may be a good <hi>Preacher,</hi> but no good <hi>Governo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r.</hi>
+               </p>
+               <p>
+                  <hi>Eighthly,</hi> When our Lord ſent out the Apoſtles, and the Seventy, only to Pre<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>, he ſent them out by <hi>two</hi> and two, <hi>Mar.</hi> 6.7. <hi>L<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k.</hi> 10.1. Now a ſingle Paſter undertakes all.</p>
+               <p>
+                  <hi>Ninthly,</hi> The Jewiſh Synagogues bad ſeveral Elders to carry on the Govern<g ref="char:EOLhyphen"/>ment in one of their Synagogues, and we but one, <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> vident O<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>li, quam O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s.</hi>
+               </p>
+               <p>It is true, our Paſtor with his People may truely be called a <hi>Church;</hi> as that Woman who had no Arms, but held bee Pen between her Toes, and ſo wrote, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> have ſeen of her Writing <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> may well be ſaid to be <hi>Animal rationale,</hi> a r<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>io<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Creature; but had God made the W<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>an ſo at firſt, the Woman had not been a <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to Man So here is a Company of V<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ible Stints, one Pa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>or, here is Preaching, Prayer, Adminiſtration of Sacraments, and in ſome Caſes Excreſſe of Diſcipline, ſo that it is a true Church, but not ſuch a Church as the Apoſlles ſent by Chriſt did Con<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itute, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> to anſwer all ends of a Church;
+<pb n="24" facs="tcp:52812:17"/>'tis imperfect, defective, and our Duty is to write after that Copy the Apoſtles of Chriſt have ſet us.</p>
+               <p>Dr. <hi>Owen</hi> hath proved there ought to be many Elders in every Church,
+<note place="margin">2d. <hi>Part of the Church,</hi> p. 138.</note> by Scriptures and Reaſons, I think ſufficiently.</p>
+               <p>Soon after the Apoſtles in the Primitive Churches, Mr. <hi>Clarkſon</hi> in his Diſ<g ref="char:EOLhyphen"/>courſe againſt Dioceſan Churches [his firſt Book, <hi>p.</hi> 5.21.] hath ſhown there were more Presbyters in every Church than were neceſſary.</p>
+               <p>In thoſe Virgin Churches in the Valleys of <hi>Piedmont,</hi> which were never deſi<g ref="char:EOLhyphen"/>led with Popery, but kept pure from the Apoſtles dayes, [where I find Ordina<g ref="char:EOLhyphen"/>tion was with Impoſition of Hands, contrary to our Men] I read in their low Condition ſeven Elders made a <hi>Claſſis;</hi> they carryed on their Government by joint Councils; they had their Conſiſtories, and 140 Paſtors heretofore in a Synod.</p>
+               <p>Whence, this <hi>one</hi> Teaching Elder, or a ſingle Paſtor in a Church, is a <hi>Nov<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> thing, different from the Apoſtles, and the Practices of the beſt Churches.</p>
+               <p>The laſt time I was with Dr. <hi>Owen,</hi> diſcourſing, with him about Church-Go<g ref="char:EOLhyphen"/>vernment, he was ſaying to me, I would ſain know whether the Government of the Houſe of God be likely to be moſt prevalent, being carryed on by one ſingle Paſtor, or by many Elders met together, and Acting in the Name of the Lord? I think the Queſtion may be eaſily Anſwered, and in Order to it, I ſtate the Queſtion:</p>
+               <q>Queſt. <hi>Whether unto the right Conſtitution of a par<g ref="char:EOLhyphen"/>ticular Goſpel-Church, it be</hi> Neceſſary <hi>that all the Officers and Members of the Church do meet toge<g ref="char:EOLhyphen"/>ther</hi> in one place at one time, <hi>to Celebrate all the Inſtitutions of Chriſt?</hi>
+               </q>
+               <p>The Learned Dr. <hi>Owen</hi> having changed his Opinion from what it was when he wrote his <hi>Countrey Eſſay for the practice of Church-Government;
+<note place="margin">p. 5<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</note> when he would have the extream of the Diviſion not above eight or ten Miles, ſo the Center not more than four or five Miles from any part of it,</hi> &amp;c. He now tells us, <hi>To maniſeſt that Aſ<g ref="char:EOLhyphen"/>ſemblies of the whole Church,</hi> at once and in one place, <hi>for the Celebration of Divine Worſhip, is of the</hi> Eſſence <hi>of a Church, without which it hath</hi> no real Being, — <hi>the Lord appointed the Males which were the Circumciſed Church, ſhould appear in one place three times a Year,</hi> Exod. 23 14. Deut. 16.16.</p>
+               <p>I did not think that <hi>Place</hi> being but a Subject, and Time an Adjunct, ſhould be <hi>Eſſential</hi> to a Church; yea, ſo as no <hi>real Being</hi> without them.</p>
+               <p>Neither am I ſatisfied with this Proof: For their Meetings three times a Year, were to perform three particular Services, proper to the Jews, and that but <hi>once</hi> a Year, and <hi>that day</hi> the Law appointed, and no other, we have no ſuch Appointments under the Goſpel: The Lord's Supper which anſwers the Paſlover, was Celebrated every Lords-Day in the Primitive Churches.</p>
+               <p n="2">2ly. Only the <hi>Males</hi> appeared then: We think Women and Children as well as then Children, are Members of the Church, and ought to appear with the Males, to Worſhip God every Lords-Day.</p>
+               <pb n="25" facs="tcp:52812:17"/>
+               <p n="3">3ly. When they were in <hi>Jeruſalem,</hi> the <hi>Metropolis</hi> of the Kingdom, how did their eating the Paſſover in a thouſand, it may be two thouſand ſeveral Houſes, anſwer our Partaking of the <hi>Lords Supper</hi> at one Table in one particular Church? we ſhould have ſo many Churches: The other Feaſts were proper to them.</p>
+               <p>Nor could they meet in the Court all at one time to Worſhip God, there be<g ref="char:EOLhyphen"/>ing in <hi>David</hi>'s time,
+<note place="margin">1 Chron. 21.5, 6.</note> one Million, five hundred and ſeventy thouſand men [be<g ref="char:EOLhyphen"/>ſides the Tribes of <hi>Benjamin</hi> and <hi>L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i</hi>] that drew Sword.</p>
+               <p>The <hi>Dr.</hi> tells us,
+<note place="margin">1ſt. <hi>Book,</hi> p. 87. &amp; 353.</note> 
+                  <hi>The Members of ſuch a Church may and ought to meet occaſional<g ref="char:EOLhyphen"/>ly in diſtinct Aſſemblies, eſpecialty in times of Perſecution, for Prayer, Preading of the Word, mutual Exhortation,</hi> &amp;c. And in another place, <hi>The conſtant meeting in one place is not beſt for Ediſication.</hi>
+               </p>
+               <p>Since he mentions <hi>Preaching of the Word,</hi> I ſuppoſe he means their Officers are with them to <hi>Preach</hi> to them, and why not then as well to Adminiſter the Lords Supper as to Preach? one Scripture againſt it I would gladly ſee. To <hi>Baptize,</hi> they do not queſtion. There were three Teaching Elders in Dr. <hi>Owen</hi>'s Church, [the only Church that I know of in <hi>England,</hi> that came up to the Apoſtolical Pattern] theſe three might meet together with their Members in times of Perſecution, eſpecially in three diſtinct Aſſembles, conſequently <hi>Places,</hi> to Pray, to Preach, to Baptize, and to Adminiſter the Lords Supper, for any thing I know out of God's Word: Then may not we meet in diſtinct Aſſemblies to <hi>ſuch Ends,</hi> and yet be but one particular Church, as his was; but for other <hi>Ends</hi> we may meet in one place.</p>
+               <p>So in the Countrey Villages we may have many Elders in one particular Church, as he ſaith there <hi>ought</hi> to be, elſe I know not how we ſhall do for Churches in the Countrey.</p>
+               <p>But to come to the Queſtion: If the whole Church meeting together in <hi>one place, and at one time,</hi> be eſſential to a Church, and it hath no <hi>real <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eing</hi> without it, then it muſt be proved: 1. Either from Divine Precept. Or, 2. From the Examples of the Churches planted by the Apoſtles. Or, 3. From forcing Reaſons drawn from the Ends of Worſhip.</p>
+               <p>For the firſt, I ſee none named, but <hi>Example</hi> is the Proof, and the words <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, mentioned in the <hi>Acts</hi> and <hi>Corinthians,</hi> are the Corner-ſtone of this Building; five times pious and learned <hi>Amts</hi> quotes theſe words:
+<note n="*" place="margin">Vol. 2. p. 755.</note> Dr. <hi>Lightſoot</hi> hath ſpoken very clearly to theſe words againſt it.</p>
+               <p>I grant, where there are many Elders and much People dwelling ſo that they can meet conveniently in one place, to carry on all Church-work, as was the Caſe of all the Churches we read of in the Goſpel, being in Cities, there is a <hi>particular Church</hi> without any queſtion. So I yield to <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>But I wiſh theſe Men who are ſo rigid for <hi>one place,</hi> had but the experience in themſelves which I have obſerv'd in others. Precious Chriſtians, who had no Coaches nor Horſes to carry them, but craſie Bodies, yet longing for the Ordi<g ref="char:EOLhyphen"/>nances, which they might have had, if my Notion might prevail, within two Stones caſt, but for this Notion of the <hi>One Place</hi> they muſt Travel two Miles; they do ſo, but when they come home at Night, they are ſo ſpent and tired that to Bed they muſt goe, the next day came Complaining to me, they had loſt the Benefit of the Ordinances, they could mind nothing but their Pain. Many Chriſtians having infirm Bodies muſt nor enjoy the Ordinances at all, when they might have them the next door: Hath God no reſpect to the Bodies of his People?</p>
+               <pb n="26" facs="tcp:52812:18"/>
+               <p>As to the Examples he brings, the Queſtion is, Whether there were no more Chriſtians in theſe Cities than could meet in <hi>one place?</hi> if not, then 'tis no more than I have yielded before; for theſe had many Elders in them to carry on all Church-work, which the Dr. faith ought to be, and is the thing I ſtand upon, from the Apoſtolical Conſtitution of Churches.</p>
+               <p>But if his Argument from <hi>Examples</hi> be ſo Cogent, then he muſt bring us Ex<g ref="char:EOLhyphen"/>amples out of theſe Cities, where there were more Chriſtians than could meet in <hi>one place,</hi> at <hi>one time,</hi> and ſo were forced to meet in <hi>more places,</hi> and theſe made more <hi>diſtinct Churches.</hi> If theſe Examples can be brought, then I yield the Queſtion from <hi>Examples.</hi>
+               </p>
+               <p>But if no ſuch Examples can be brought, [as I am ſure there is not one in all the Goſpel] then the Argument from <hi>Examples</hi> falls, and is of no force.</p>
+               <p>Obj. <hi>If they did meet in diſtinct places, they were, and muſt be diſtinct Churches?</hi>
+               </p>
+               <p>
+                  <hi>Anſw.</hi> But his Proof is all from <hi>Example,</hi> and that implies there were ſuch Churches <hi>de facto,</hi> elſe there could be no <hi>Example.</hi>
+               </p>
+               <p n="2">2. I deny the Conſequence; for tho' a Number of Chriſtians did ſwarm out of the firſt Church, yet they might have but <hi>one Teaching Elder,</hi> and ſo could not carry on all Church-work; and there ought to be many Elders in one Church, ſaith the Dr. be they ſix or ſeven Congregations, it comes to the ſame. I have heard that in <hi>Lantaſhire</hi> there is one great Pariſh Church, and ſeveral Chappels belong unto it, in which Miniſters Preach and Adminiſter the Lords Supper, which do ſhadow out what I aim at.</p>
+               <p>As to the Examples which are brought, <hi>Mede</hi> and <hi>Fuller,</hi> Men of great Learn<g ref="char:EOLhyphen"/>ing, tell us, that in the firſt Century, Chriſtians had a room Dedicated and Ap<g ref="char:EOLhyphen"/>propriated to the Worſhip of God, [what their Deſign is I leave] yet they tell us it was but a room in ſome private Diſciples Houſe: Nor in the ſecond Centu<g ref="char:EOLhyphen"/>ry had they publick Places to meet in, ſay our <hi>Homilies againſt Idolatry,</hi> lib. 2. p. 66.</p>
+               <p>The Lord tells <hi>Paul,</hi> Acts 18.10. <hi>I have much People in Corinth:</hi> How much? ſo much as may meet in one place in a private Diſciple's Houſe, when their Ta<g ref="char:EOLhyphen"/>bles for their Love-Feaſts, <hi>&amp;c.</hi> are ſet: This is <hi>much honour</hi> to the Text.</p>
+               <p>Several of the Fathers underſtand the word <hi>Church,</hi> in 1 <hi>Corinth.</hi> 11.18. to be meant the <hi>place</hi> where the <hi>Church</hi> met; <hi>Contin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns pro Continento,</hi> and I think it may be ſo well underſtood, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, theſe were the Church of the believing <hi>Corinthians,</hi> that met together <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the Church. The Church here is oppoſed to their <hi>own Houſes,</hi> v. 22. then I know nothing againſt it but <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the 14 <hi>chap.</hi> 34. may be ſo underſtood, <hi>Let your Women keep ſilence in the Churches;</hi> not in the <hi>Church,</hi> as in the 18th. V. but <hi>Churches;</hi> ſo that they met in more places than one, in <hi>Corinth,</hi> yet but one Church, 2 <hi>Cor.</hi> 2.1.</p>
+               <p>Our laſt Annotator Tranſlate the words <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, in the 20th. V. <hi>for the ſame thing,</hi> not the <hi>ſame place,</hi> and I think his Reaſon is good; and I have won<g ref="char:EOLhyphen"/>dered that Learned Men ſhould render the words ſo in <hi>Acts</hi> 2.44. Dr. <hi>Lightfoot</hi> ſaith the words cannot be ſo rendered, and gives other ſignifications of the words, that they will not prove the Queſtion.</p>
+               <p>As for the Church in <hi>Epheſus,</hi> which is another Example brought, <hi>Paul con<g ref="char:EOLhyphen"/>tinued there three Years,</hi> Acts 20.31. The reaſon of his ſtay, <hi>a great and eſſectual door is opened,</hi> 1 Cor. 16.8, 9. <hi>The Word of God grew mightily,</hi> Acts 19.20. It grew ſo, that they dare venture to burn the Books that were of Value among the <hi>Epheſians,</hi> before the face of the People, valued at eight hundred Pounds the
+<pb n="27" facs="tcp:52812:18"/>leaſt, <hi>Acts</hi> 19.19. Both Jews and Gentiles came in, <hi>Acts</hi> 19.10, 17. And how many Chriſtians have we now in <hi>Epheſus?</hi> ſo many as may meet in one room in a private Diſciples Houſe. <hi>Paul</hi>'s <hi>great door,</hi> and his word <hi>mightily,</hi> had bet<g ref="char:EOLhyphen"/>ter been ſpared, for this is but a diſgrace to the Text.</p>
+               <p>As for what <hi>J<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſtin Martyr</hi> writes, that the Chriſtians in the <hi>Towns and Villa<g ref="char:EOLhyphen"/>ges met on the Sunday.</hi> 1. How many were there in the Villages? 2. Had they any Paſtor in the Villages? 3. How far were theſe Villages from the Towns? <hi>Juſtin Martyr</hi> ſaith nothing to theſe Heads.</p>
+               <p>Come lower to the Year 252. when the Quarrel was between <hi>Cornelius</hi> and <hi>Novatianus. Cornelius</hi> in his Epiſtle to <hi>Fabius</hi> faith of <hi>Novatian<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s, He was Igno<g ref="char:EOLhyphen"/>rant there ought to be but one Biſhop in that Church</hi> [of <hi>Rome</hi>] <hi>in which were forty ſix Presbyters, ſeven Deacons,</hi> &amp;c.</p>
+               <p>A little Digreſſion. <hi>One Biſhop in</hi> Rome. Was not <hi>Rome</hi> a Metropolis, where the Seat of the Emperor was? but then it ſhould have been <hi>Arch-Biſhop;</hi> but <hi>Cornelius</hi> ſaith one <hi>Biſhop</hi> in that Church [of <hi>Rome.</hi>] And to this day we call the Pope, the <hi>Biſhop of Rome,</hi> not <hi>Arch-Biſhop of Rome.</hi> Simple <hi>Biſhop</hi> can content <hi>Cyprian,</hi> Biſhop of <hi>Carthage,</hi> and <hi>Cornelius</hi> Biſhop of <hi>Rome,</hi> which two Cities cauſed bloody Battels, which of them ſhould be the <hi>Empreſs</hi> of the World. How they then can be eſteem'd Men of Truth, we may eaſily judge, that dare Preach and Print, the ſeven Angels of the ſeven Churches in <hi>Aſia</hi> were ſeven <hi>Arch-Biſhops,</hi> when one hundred and ſixty Years after thoſe Church<g ref="char:EOLhyphen"/>es, there was no <hi>Arch-Biſhop</hi> in thoſe great Cities.</p>
+               <p>But to goe on — concerning the Church of <hi>Jeruſalem,</hi> I Conſent to what he ſaith, and let it ſtand for our Rule to Act by; of it Dr. <hi>Owen</hi> thus writes, <hi>This Church of</hi> Jeruſalem, <hi>thus called and collected out of the Church of the Jews, was the Rule and Pattern of the Diſpoſing of all the Diſciples of Chriſt</hi> into Church Societies, <hi>in Obidience to his Command throughout the World, Catechiſ.</hi> p. 85. let this ſtand.</p>
+               <p>How many thouſands of Diſciples did belong to this Church of <hi>Jeruſalem,</hi> we cannot tell; but this we find, <hi>Acts</hi> 4.4. there were five thouſand at that time; and <hi>Acts</hi> 5.14. <hi>Multitudes of Men</hi> and Women <hi>now were added</hi> to thoſe five thouſand: In the 6 <hi>Act.</hi> 7. we read <hi>the Number of the Diſciples multiplied in Jeru<g ref="char:EOLhyphen"/>ſalem greatly:</hi> I ſuppoſe no Man will ſay theſe were ſuch as we read of 2 <hi>Act.</hi> 5.9. <hi>Strangers;</hi> if they were, yet it hurts not me, they were all of this Church; and we know Members of Independent Churches in <hi>London</hi> lived forty Miles diſtant from them: Here was Prayer, Preaching, Adminiſtration of both Sacra<g ref="char:EOLhyphen"/>ments, Election and Ordination of Officers; Terrible Diſcipline, if I might ſo call it, upon <hi>Ananias</hi> and <hi>Saphira.</hi> But was all this in <hi>one place?</hi> No ſure; when there were but the three thouſand added, they <hi>Brake Bread,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>:
+<note place="margin">Act. 2.46.</note> 
+                  <hi>Beza</hi> and <hi>Grotius</hi> ſpeak fully to my purpoſe as to the diſtinct places; and that by <hi>Breaking of Bread</hi> the Lords Supper is intended, as in the 42 <hi>v.</hi> the <hi>Salmur</hi> Di<g ref="char:EOLhyphen"/>vines, <hi>A Lapide,</hi> Dr. <hi>Hammond,</hi> Dr. <hi>Owen,</hi> Mr. <hi>Baxter,</hi> and others whom I men<g ref="char:EOLhyphen"/>tion not, do all agree. Nor do I think there is any Man will ſay they did all partake of the Lords Supper in one Houſe, at one time; much leſs then after<g ref="char:EOLhyphen"/>wards. Thus was their <hi>Preaching, Act.</hi> 5.42. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>It is certain then they met in ſeveral diſtinct places, both to Preach and Ad<g ref="char:EOLhyphen"/>miniſter the Sacrament, yet but <hi>one</hi> Church. How long it was between the day of <hi>Pentecoſt</hi> and <hi>Stephen's</hi> Death, I know not; but ſo long thus was their Practice, and had been longer, if that Perſecution had not befallen them.</p>
+               <p>If then the meeting in <hi>one place</hi> had been ſo eſſential to a Church as the Dr.
+<pb n="28" facs="tcp:52812:19"/>makes it, we ſhould have ſeen it here. Surely the Apoſtles, with whom our Lord had been <hi>ſpeaking concerning the things pertaining to his Kingdom,</hi> 1 Act. 3. ſo lately, would not do any thing contra-eſſential to a Church. Yea, here was matter ready prepared for ſeveral particular Churches, meeting in ſeveral di<g ref="char:EOLhyphen"/>ſtinct places, for Divine Worſhip, had the Lord pleaſed to have declared that it was his Will, that meeting in every ſuch diſtinct place, ſhould make a parti<g ref="char:EOLhyphen"/>cular Church, and ſo have given a Pattern, how all particular Churches ſhould be Conſtituted: Here wanted nothing, I ſay, but the Declaration of his Will.</p>
+               <p>We have heard in the time of our Perſecution, that ſeveral thouſands of the <hi>Scots</hi> met in one Field, to Adminiſter and partake of the Lords Supper. Tho' it was not a Houſe, it was a Place, yet we do not read that ever the Apoſtles did ſo much as <hi>once</hi> call all the Church together into <hi>one place,</hi> to Adminiſter the <hi>Lords Supper,</hi> that they might leave <hi>one</hi> Example at leaſt, that in every Church there muſt be but <hi>One Table,</hi> or <hi>one Altar</hi> as ſome call it; which they might ea<g ref="char:EOLhyphen"/>ſily have done, had <hi>one place</hi> in their Judgment [men guided by the Spirit] been ſo eſſential to a Church as ſome make it now.</p>
+               <p>Many thouſands of particular Churches make up <hi>One Body</hi> of Chriſt: Why then ſo many particular Congregations [where the Members of one Congregati<g ref="char:EOLhyphen"/>on are known to the others] as there may be Elders ſufficient to carry on all Church-work, may not make one particular Church, I know not. It is certain, that where only one Paſtor, with a Parochial Congregation make a Church, all the Ends of Churches cannot be attained; not only Reaſon, but Experience al<g ref="char:EOLhyphen"/>ſo hath ſufficiently proved it.</p>
+               <p>Where a Congregation is ſo far remote from others, and ſo poor that it can<g ref="char:EOLhyphen"/>not maintain one Paſtor well, ſuch a People muſt do as well as they can; but where Congregations are nearer, tho' they be poor, [as I know ſew that are not] yet they may Coaleſce into one Church, to attain all Church-Ends, ſo far as our Performance of Duties to thoſe Ends may conduce.</p>
+               <p>Suppoſe there were ſeven Teaching Elders in a particular Church, there is but <hi>One</hi> of theſe that Pray, Preach, Adminiſter the Sacraments, Order the Sing<g ref="char:EOLhyphen"/>ing, at one time, all the reſt put forth no Official Act, but are Attendants, as the Private Brethren. But if theſe ſeven were in ſeven Congregations, every one is at work, performing theſe Acts. As for other Official Acts, as Exerciſe of Diſcipline, Ordination, Election of Officers, <hi>&amp;c.</hi> they may all meet together, and Act jointly; and thus it was in our <hi>Mother Church</hi> in <hi>Jeruſalem,</hi> which is more to me than all that is ſaid for <hi>One Place, One Altar, One Biſhop.</hi> I cannot call to mind any Church-End, but may be attained as well this way, as if they met in <hi>one place</hi> alwayes, and better.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:52812:20" rendition="simple:additions"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
